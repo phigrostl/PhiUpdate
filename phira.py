@@ -55,6 +55,7 @@ except Exception as e:
     exit(1)
 
 infos['Introduction']['difficulty'].pop()
+infos['Introduction']['difficulty'].pop()
 
 for id, info in infos.items():
     try:

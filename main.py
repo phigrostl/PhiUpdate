@@ -12,4 +12,4 @@ else:
 
 print(os.system(f"py cg.py {path}"))
 print(os.system(f"py info.py {path}"))
-print(os.system(f"py parse.py {path} {filter}"))
+print(os.system(f"py parse.py {path} {' '.join(filter)}"))

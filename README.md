@@ -10,6 +10,7 @@
 
  - 下载并解压本仓库
 
+ - [Python 3.8+](https://www.python.org/downloads/)
  - [TypeTreeGeneratorCLI](https://github.com/K0lb3/TypeTreeGenerator/releases/latest)
  - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/latest)
  - [libvorbis.dll](https://xiph.org/downloads/)

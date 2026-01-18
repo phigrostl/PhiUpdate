@@ -4,8 +4,8 @@ import sys
 levels = ["EZ", "HD", "IN", "AT"]
 
 filter = []
-if sys.argv.__len__() > 2:
-    filter = sys.argv[2:]
+if sys.argv.__len__() >= 2:
+    filter = sys.argv[1:]
 def in_filter(key):
     global filter
     if filter.__len__() == 0:
@@ -61,9 +61,12 @@ for id, info in infos.items():
     try:
         if not in_filter(f"{info['Name']}.{info['Composer']}.0"):
             continue
-        str = f"正在处理：{info['Name']}:{info['Composer']}"
+        
         print("\r\033[K", end="")
+        
+        str = f"正在处理：{info['Name']}:{info['Composer']}"
         print(str, end='\r')
+        
         out_dir = f"chart/{id}"
             
         for level_index in range(len(info.get("difficulty", []))):

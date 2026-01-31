@@ -82,7 +82,7 @@ def save(key, entry, futures):
 
     base_folder = "chart"
     out_folder = os.path.join(base_folder, folder_name)
-    if not key[:7] == "avatar.":
+    if not key[:7] == "avatar." and in_filter(key):
         os.makedirs(out_folder, exist_ok=True)
 
     if config["avatar"] and key[:7] == "avatar." and in_filter(key):

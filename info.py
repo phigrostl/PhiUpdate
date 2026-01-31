@@ -3,6 +3,8 @@ import os
 import sys
 from UnityPy import Environment
 import zipfile
+import apkutils
+import xml.etree.ElementTree as ET
 
 DEBUG = False
 
@@ -117,6 +119,29 @@ def run(path):
             
     with open("info/chapter.txt", "w", encoding="utf8") as f:
         f.write(chaptersStr)
+        
+    try:
+        apk = apkutils.APK.from_file(path)
+        manifest_xml_str = apk.get_manifest()
+        
+        if manifest_xml_str:
+            root = ET.fromstring(manifest_xml_str)
+            android_ns = {"android": "http://schemas.android.com/apk/res/android"}
+            package_name = root.get("package", "NULL")
+            
+            version_name = root.get("android:versionName", "NULL")
+            if version_name == "NULL":
+                version_name = root.get("{" + android_ns["android"] + "}versionName", "NULL")
+                
+            version_code = root.get("android:versionCode", "NULL")
+            if version_code == "NULL":
+                version_code = root.get("{" + android_ns["android"] + "}versionCode", "NULL")
+                
+            with open("info/version.tsv", "w", encoding="utf8") as f:
+                f.write(f"{package_name}\t{version_name}\t{version_code}\n")
+                
+    except Exception as e:
+        pass
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:

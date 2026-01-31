@@ -70,6 +70,7 @@ py phira.py [Filter...]
 │   ├── collection.tsv 	    // 收藏品
 │   ├── tips.txt		    // Tips: Tips: Tips: Tips: Tips:
 │   ├── tmp.tsv		        // 歌曲与头像的对应关系
+│   ├── version.tsv         // APK版本信息
 ├── chart
 │   ├── <ID>
 │   ├── ├── <难度>.json     // 谱面数据

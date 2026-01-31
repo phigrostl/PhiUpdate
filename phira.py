@@ -75,6 +75,7 @@ for id, info in infos.items():
             info_txt_content = (
                 f"#\n"
                 f"Name: {info['Name']}\n"
+                f"Path: {id}\n"
                 f"Song: music.wav\n"
                 f"Picture: illustration.png\n"
                 f"Chart: {level}.json\n"

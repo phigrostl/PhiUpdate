@@ -73,12 +73,34 @@ def save_chart(path, obj):
     queue_in.put((path, content))
 
 classes = ClassIDType.TextAsset, ClassIDType.Sprite, ClassIDType.AudioClip
+songs = []
 
 def save(key, entry, futures):
     global write_num, pool, config
     obj = entry.get_filtered_objects(classes)
     obj = next(obj).read()
     folder_name = key.rsplit("/", 1)[0]
+
+    global songs
+    SP = False
+    
+    if not folder_name[:-2] in songs and not key[:7] == "avatar.":
+        SP = True
+        with open("info/songs.txt", "a", encoding="utf8") as f:
+            f.write(folder_name + "\n")
+        songs.append(folder_name)
+        
+        with open("info/chapter.txt", "a", encoding="utf8") as f:
+            f.write("\n" + folder_name + "\n")
+        songs.append(folder_name)
+        
+        with open("info/difficulty.tsv", "a", encoding="utf8") as f:
+            f.write(folder_name + "\t?\n")
+        songs.append(folder_name)
+        
+        with open("info/info.tsv", "a", encoding="utf8") as f:
+            f.write(folder_name + "\t\t\t\t\t\t\n")
+        songs.append(folder_name)
 
     base_folder = "chart"
     out_folder = os.path.join(base_folder, folder_name)
@@ -89,7 +111,10 @@ def save(key, entry, futures):
         futures.append(pool.submit(save_image, os.path.join("avatar", f"{key[7:]}.png"), obj.image))
         write_num += 1
     elif config["chart"] and key[-14:-7] == "/Chart_" and key[-5:] == ".json" and in_filter(key):
-        futures.append(pool.submit(save_chart, os.path.join(out_folder, f"{key[-7:-5]}.json"), obj))
+        if SP:
+            futures.append(pool.submit(save_chart, os.path.join(out_folder, "SP.json"), obj))
+        else:
+            futures.append(pool.submit(save_chart, os.path.join(out_folder, f"{key[-7:-5]}.json"), obj))
         write_num += 1
     elif config["illustrationBlur"] and key[-21:-3] == "/IllustrationBlur." and in_filter(key):
         futures.append(pool.submit(save_image, os.path.join(out_folder, "illustrationBlur.png"), obj.image))
@@ -212,4 +237,11 @@ if __name__ == "__main__":
         if os.path.isdir("/system/") and not os.getcwd().startswith("/data/"):
             with open(directory + "/.nomedia", "wb"):
                 pass
+    
+    with open("info/songs.txt", encoding="utf8") as f:
+        line = f.readline()[:-3]
+        while line:
+            songs.append(line)
+            line = f.readline()[:-3]
+    
     run(path)

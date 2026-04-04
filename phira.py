@@ -72,20 +72,31 @@ for id, info in infos.items():
         for level_index in range(len(info.get("difficulty", []))):
             level = levels[level_index]
             os.makedirs(out_dir, exist_ok=True)
-            info_txt_content = (
-                f"#\n"
-                f"Name: {info['Name']}\n"
-                f"Path: {id}\n"
-                f"Song: music.wav\n"
-                f"Picture: illustration.png\n"
-                f"Chart: {level}.json\n"
-                f"Level: {level} Lv.{info['difficulty'][level_index]}\n"
-                f"Composer: {info['Composer']}\n"
-                f"Illustrator: {info['Illustrator']}\n"
-                f"Charter: {info['Chater'][level_index]}\n"
-            )
-            with open(os.path.join(out_dir, f"{level}.txt"), "w", encoding="utf8") as f:
-                f.write(info_txt_content)
+            
+            if info['difficulty'][level_index] == "?":
+                info_txt_content = (
+                    f"#\n"
+                    f"Path: {id}\n"
+                    f"Song: music.wav\n"
+                    f"Picture: illustration.png\n"
+                    f"Chart: SP.json\n"
+                    f"Level: SP Lv.?\n"
+                )
+            else:
+                info_txt_content = (
+                    f"#\n"
+                    f"Name: {info['Name']}\n"
+                    f"Path: {id}\n"
+                    f"Song: music.wav\n"
+                    f"Picture: illustration.png\n"
+                    f"Chart: {level}.json\n"
+                    f"Level: {level} Lv.{info['difficulty'][level_index]}\n"
+                    f"Composer: {info['Composer']}\n"
+                    f"Illustrator: {info['Illustrator']}\n"
+                    f"Charter: {info['Chater'][level_index]}\n"
+                )
+                with open(os.path.join(out_dir, f"{level}.txt"), "w", encoding="utf8") as f:
+                    f.write(info_txt_content)
                 
     except KeyError as e:
         print(f"错误：ID {id} 缺少必要的键 {e}。")

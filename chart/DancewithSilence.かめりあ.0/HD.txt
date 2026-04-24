@@ -1,0 +1,10 @@
+#
+Name: Dance with Silence
+Path: DancewithSilence.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.9
+Composer: かめりあ
+Illustrator: 林语
+Charter: Su1fuR

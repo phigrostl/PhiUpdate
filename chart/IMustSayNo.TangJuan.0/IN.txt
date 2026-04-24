@@ -1,0 +1,10 @@
+#
+Name: I Must Say No
+Path: IMustSayNo.TangJuan.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.5
+Composer: TangJuan
+Illustrator: cycats
+Charter: Likey & 百九十八

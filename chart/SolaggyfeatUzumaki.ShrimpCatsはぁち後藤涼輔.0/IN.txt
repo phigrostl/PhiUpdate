@@ -1,0 +1,10 @@
+#
+Name: So laggy! (feat. Uzumaki)
+Path: SolaggyfeatUzumaki.ShrimpCatsはぁち後藤涼輔.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: ShrimpCats. (はぁち×後藤涼輔)
+Illustrator: 塩焼とまと
+Charter: Salt

@@ -1,0 +1,10 @@
+#
+Name: 月下缭乱
+Path: 月下缭乱.月見静華vsLUNARiUM.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: 月見静華 vs. LUNARiUM
+Illustrator: TNiK
+Charter: XMT小咩兔

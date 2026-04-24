@@ -1,0 +1,10 @@
+#
+Name: Another Me
+Path: AnotherMe.DAAN.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.6
+Composer: D_AAN
+Illustrator: ZG
+Charter: NerSAN vs. Ctymax as "泥头鱼"

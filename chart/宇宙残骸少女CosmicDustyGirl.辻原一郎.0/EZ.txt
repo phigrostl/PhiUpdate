@@ -1,0 +1,10 @@
+#
+Name: 宇宙残骸少女 (Cosmic Dusty Girl)
+Path: 宇宙残骸少女CosmicDustyGirl.辻原一郎.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: 辻原一郎
+Illustrator: TOTOTO 
+Charter: 不喜欢键的COC

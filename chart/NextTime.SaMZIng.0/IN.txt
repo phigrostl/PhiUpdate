@@ -1,0 +1,10 @@
+#
+Name: Next Time
+Path: NextTime.SaMZIng.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.12.4
+Composer: SaMZIng
+Illustrator: 叶藤
+Charter: Gausbon ~ See you next time ~ 

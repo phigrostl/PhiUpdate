@@ -1,0 +1,10 @@
+#
+Name: Der Richter
+Path: DerRichter.Ωμεγα.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: Ωμεγα
+Illustrator: 森灵
+Charter: Min(C,t,y)

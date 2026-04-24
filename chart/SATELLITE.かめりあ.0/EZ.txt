@@ -1,0 +1,10 @@
+#
+Name: S.A.T.E.L.L.I.T.E.
+Path: SATELLITE.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: かめりあ
+Illustrator: 青鸟
+Charter: XMT wishing upon a satellite

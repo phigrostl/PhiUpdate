@@ -1,0 +1,10 @@
+#
+Name: Demiurge
+Path: Demiurge.Rabpit.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.5
+Composer: Rabpit
+Illustrator: 青鸟
+Charter: "Creator" ~ StupiGGy

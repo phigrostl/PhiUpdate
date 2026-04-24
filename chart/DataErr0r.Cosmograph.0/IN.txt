@@ -1,0 +1,10 @@
+#
+Name: DataErr0r
+Path: DataErr0r.Cosmograph.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.5
+Composer: Cosmograph
+Illustrator: Photonskyto
+Charter: TangScend -Err0rederci-

@@ -1,0 +1,10 @@
+#
+Name: 神話
+Path: 神話.PicaM2U.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.5
+Composer: Pica & M2U
+Illustrator: mology (青鸟&V17AMax Modified)
+Charter: P & U

@@ -1,0 +1,10 @@
+#
+Name: Wavetapper
+Path: Wavetapper.Frums.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.9
+Composer: Frums
+Illustrator: 百九十八
+Charter: 百九十八 vs. Barbarianerman

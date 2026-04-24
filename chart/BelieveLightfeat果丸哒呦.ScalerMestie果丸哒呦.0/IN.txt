@@ -1,0 +1,10 @@
+#
+Name: Believe Light (feat. 果丸哒呦)
+Path: BelieveLightfeat果丸哒呦.ScalerMestie果丸哒呦.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: Scaler & Mestie & 果丸哒呦
+Illustrator: 圆规compasses
+Charter: Believe Ctymax & TimiTini

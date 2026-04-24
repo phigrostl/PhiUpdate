@@ -1,0 +1,10 @@
+#
+Name: ABYSS MOTION 192.333
+Path: ABYSSMOTION192333.ariiolTSAR奏Sou.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.8
+Composer: ariiol & 奏Sou
+Illustrator: kkmfd
+Charter: ABYSS 543.320

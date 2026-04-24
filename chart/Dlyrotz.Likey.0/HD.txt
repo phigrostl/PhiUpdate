@@ -1,0 +1,10 @@
+#
+Name: Dlyrotz
+Path: Dlyrotz.Likey.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.1
+Composer: Likey
+Illustrator: DoublePian
+Charter: Su1fuR

@@ -1,0 +1,10 @@
+#
+Name: Feast远东之宴
+Path: Feast远东之宴.茶鸣拾贰律.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.5
+Composer: 茶鸣拾贰律
+Illustrator: 茶鸣拾贰律
+Charter: Gino

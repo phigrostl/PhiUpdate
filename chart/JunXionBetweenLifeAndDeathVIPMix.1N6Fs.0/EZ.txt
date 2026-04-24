@@ -1,0 +1,10 @@
+#
+Name: JunXion Between Life And Death(VIP Mix)
+Path: JunXionBetweenLifeAndDeathVIPMix.1N6Fs.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: 1N6Fs
+Illustrator: IvyTowers
+Charter: 鲲&百九十八

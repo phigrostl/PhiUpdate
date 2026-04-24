@@ -1,0 +1,10 @@
+#
+Name: Shine After
+Path: ShineAfter.ADeanJocularACE.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: ADean & JocularACE
+Illustrator: 海里狄七 feat. 存艺
+Charter: Salt & Uvernight

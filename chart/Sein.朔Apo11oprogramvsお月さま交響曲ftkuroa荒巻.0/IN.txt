@@ -1,0 +1,10 @@
+#
+Name: Sein
+Path: Sein.朔Apo11oprogramvsお月さま交響曲ftkuroa荒巻.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.1
+Composer: 朔(Apo11o program vs. お月さま交響曲) ft. kuroa*×荒巻
+Illustrator: hideo
+Charter: A.S.H&晨

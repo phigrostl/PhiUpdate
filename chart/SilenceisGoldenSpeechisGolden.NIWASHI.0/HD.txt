@@ -1,0 +1,10 @@
+#
+Name: Silence is Golden, Speech is Golden
+Path: SilenceisGoldenSpeechisGolden.NIWASHI.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.3
+Composer: NIWASHI
+Illustrator: Jerry & OsuMe65
+Charter: XMT is silvery, 小咩兔 is silvery

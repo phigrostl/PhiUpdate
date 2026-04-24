@@ -1,0 +1,10 @@
+#
+Name: GOODFORTUNE
+Path: GOODFORTUNE.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.7
+Composer: EBIMAYO
+Illustrator: Ctymax
+Charter: 晨

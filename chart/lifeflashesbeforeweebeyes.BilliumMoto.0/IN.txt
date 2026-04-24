@@ -1,0 +1,10 @@
+#
+Name: life flashes before weeb eyes
+Path: lifeflashesbeforeweebeyes.BilliumMoto.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.9
+Composer: BilliumMoto
+Illustrator: 百九十八
+Charter: 百九十八

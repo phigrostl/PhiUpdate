@@ -1,0 +1,10 @@
+#
+Name: Time to Night Sky (feat. Lee Yu Jin)
+Path: TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: HyuN & KLYDIX
+Illustrator: ZG
+Charter: Rikko

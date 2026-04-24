@@ -1,0 +1,10 @@
+#
+Name: Xenolith
+Path: Xenolith.Tatsh.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.2
+Composer: Tatsh
+Illustrator: 2AI4wU4
+Charter: Xlutter guided by three Oaths

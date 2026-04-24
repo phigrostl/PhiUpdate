@@ -1,0 +1,10 @@
+#
+Name: Quantum Hyperspace
+Path: QuantumHyperspace.D_AAN.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: D_AAN
+Illustrator: sa1t
+Charter: Bariantum Hyperianerman

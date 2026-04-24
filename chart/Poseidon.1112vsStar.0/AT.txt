@@ -1,0 +1,10 @@
+#
+Name: Ποσειδών
+Path: Poseidon.1112vsStar.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.2
+Composer: 1112 vs. Star＊
+Illustrator: 老张
+Charter: 上班摸大鱼 a.k.a. 海洋咩兔

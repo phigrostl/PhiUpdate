@@ -1,0 +1,10 @@
+#
+Name: Burn
+Path: Burn.NceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.0
+Composer: NceS
+Illustrator: knife美工刀
+Charter: Ctymatch Girl

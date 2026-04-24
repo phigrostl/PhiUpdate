@@ -1,0 +1,10 @@
+#
+Name: iL-Artifact
+Path: iLArtifact.Link0.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.5
+Composer: Link''0
+Illustrator: Fl00t
+Charter: IUIsauce

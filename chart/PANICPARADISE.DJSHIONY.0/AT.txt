@@ -1,0 +1,10 @@
+#
+Name: PANIC PARADISE
+Path: PANICPARADISE.DJSHIONY.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.5
+Composer: DJ SHION.Y
+Illustrator: 百九十八
+Charter: StR-1

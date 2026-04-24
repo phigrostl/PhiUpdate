@@ -1,0 +1,10 @@
+#
+Name: DevIAtiOn (short ver.)
+Path: DevIAtiOnshortver.polysha.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.7
+Composer: polysha
+Illustrator: cala for Immaculée Sekai
+Charter: Nr3_Official

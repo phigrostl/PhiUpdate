@@ -1,0 +1,10 @@
+#
+Name: TECHNOPOLIS 2085
+Path: TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.15.9
+Composer: PRASTIK DANCEFLOOR
+Illustrator: SEGA (V17AMax modified)
+Charter: TECHNOXMT vs. LATENCYPOLIS

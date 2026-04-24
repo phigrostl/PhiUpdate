@@ -1,0 +1,10 @@
+#
+Name: 幽世桔梗
+Path: 幽世桔梗.Capchiifeatまるもこ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.1
+Composer: Capchii feat. まるもこ
+Illustrator: 瀬名
+Charter: RipHall vs. Likey

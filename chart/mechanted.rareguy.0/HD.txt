@@ -1,0 +1,10 @@
+#
+Name: mechanted
+Path: mechanted.rareguy.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.3
+Composer: rareguy
+Illustrator: IvyTowers
+Charter: Ctymax

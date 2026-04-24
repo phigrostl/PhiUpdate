@@ -1,0 +1,10 @@
+#
+Name: TECHNOPOLIS 2085
+Path: TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.1
+Composer: PRASTIK DANCEFLOOR
+Illustrator: SEGA (V17AMax modified)
+Charter: CTYMAX ????

@@ -1,0 +1,10 @@
+#
+Name: 瓷岁
+Path: 瓷岁.茶鸣拾贰律.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.6.5
+Composer: 茶鸣拾贰律
+Illustrator: 茶鸣拾贰律
+Charter: 『流』年大顺

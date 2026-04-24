@@ -1,0 +1,10 @@
+#
+Name: Incyde
+Path: Incyde.YbeLL.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.1
+Composer: YbeLL
+Illustrator: ©2026 Rayark Inc. CYTUS II®
+Charter: E00200

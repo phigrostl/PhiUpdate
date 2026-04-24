@@ -1,0 +1,10 @@
+#
+Name: 白と黒のバケモノ
+Path: 白と黒のバケモノ.テヅカ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.9
+Composer: テヅカ
+Illustrator: 久世
+Charter: Simon_Axis

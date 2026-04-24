@@ -1,0 +1,10 @@
+#
+Name: XING
+Path: XING.ginkiha.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.9
+Composer: ginkiha
+Illustrator: 打雷打人（青鸟 modified）
+Charter: StupiGGy

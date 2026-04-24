@@ -1,0 +1,10 @@
+#
+Name: Pixel Rebelz
+Path: PixelRebelz.Normal1zer.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: Normal1zer
+Illustrator: 艾是Abby
+Charter: NerSAN

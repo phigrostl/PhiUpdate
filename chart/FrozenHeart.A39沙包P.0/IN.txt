@@ -1,0 +1,10 @@
+#
+Name: Frozen Heart
+Path: FrozenHeart.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: A-39 / 沙包P
+Illustrator: 山山奇
+Charter: Likey & Gausbon

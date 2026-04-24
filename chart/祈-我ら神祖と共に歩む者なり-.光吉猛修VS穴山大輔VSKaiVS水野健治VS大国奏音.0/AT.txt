@@ -1,0 +1,10 @@
+#
+Name: 祈 -我ら神祖と共に歩む者なり-
+Path: 祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.3
+Composer: 光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音
+Illustrator: SEGA (V17AMax modified)
+Charter: フィグロス譜面チーム "Rikko feat. Ner" -Pray for "PHI"-

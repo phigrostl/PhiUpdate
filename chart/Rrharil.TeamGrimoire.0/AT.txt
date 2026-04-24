@@ -1,0 +1,10 @@
+#
+Name: Rrhar'il
+Path: Rrharil.TeamGrimoire.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.6
+Composer: Team Grimoire
+Illustrator: 犀牛坨动画工坊
+Charter: RWND -p 16493:62786:92551

@@ -1,0 +1,10 @@
+#
+Name: 心之所向
+Path: 心之所向.姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.2
+Composer: 姜米條
+Illustrator: 笔记RE
+Charter: 波之所杂

@@ -1,0 +1,10 @@
+#
+Name: Originally
+Path: Originally.SNKSMizku.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.3
+Composer: SNKS & Mizku
+Illustrator: Keiby.comics
+Charter: StR-9

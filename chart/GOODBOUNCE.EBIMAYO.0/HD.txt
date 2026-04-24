@@ -1,0 +1,10 @@
+#
+Name: GOODBOUNCE
+Path: GOODBOUNCE.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.9
+Composer: EBIMAYO
+Illustrator: EBIMAYO
+Charter: Gausbounce

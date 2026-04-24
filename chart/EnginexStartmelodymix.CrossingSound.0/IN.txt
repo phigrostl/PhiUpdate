@@ -1,0 +1,10 @@
+#
+Name: Engine x Start!! (melody mix)
+Path: EnginexStartmelodymix.CrossingSound.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.0
+Composer: CrossingSound
+Illustrator: 赤芽
+Charter: 阿爽

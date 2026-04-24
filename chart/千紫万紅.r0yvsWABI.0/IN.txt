@@ -1,0 +1,10 @@
+#
+Name: 千紫万紅
+Path: 千紫万紅.r0yvsWABI.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.5
+Composer: r0y vs. WABI
+Illustrator: 中本ひょうり
+Charter: Salt & Barbarianerman

@@ -1,0 +1,10 @@
+#
+Name: Fractured Angel
+Path: FracturedAngel.DJRaisei.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: DJ Raisei
+Illustrator: OsuMe65
+Charter: Su1fuR

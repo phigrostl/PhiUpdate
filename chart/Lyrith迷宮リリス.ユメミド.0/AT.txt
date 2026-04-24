@@ -1,0 +1,10 @@
+#
+Name: Lyrith -迷宮リリス-
+Path: Lyrith迷宮リリス.ユメミド.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.5
+Composer: ユメミド
+Illustrator: 何呵
+Charter: CN_115 as "prediCameNt"

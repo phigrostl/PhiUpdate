@@ -1,0 +1,10 @@
+#
+Name: アンビバレンス
+Path: アンビバレンス.すりぃ相沢.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: すりぃ×相沢
+Illustrator: SEGA (祈莲 modified)
+Charter: XMT小咩兔

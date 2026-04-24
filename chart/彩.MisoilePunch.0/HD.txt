@@ -1,0 +1,10 @@
+#
+Name: 彩
+Path: 彩.MisoilePunch.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.5
+Composer: MisoilePunch♪
+Illustrator: ©2026 Rayark Inc. CYTUS II®
+Charter: 凛

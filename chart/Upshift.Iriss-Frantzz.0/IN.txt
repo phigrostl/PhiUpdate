@@ -1,0 +1,10 @@
+#
+Name: Upshift
+Path: Upshift.Iriss-Frantzz.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.5
+Composer: Iriss-Frantzz
+Illustrator: Iriss=Frantzz=s-don
+Charter: _鉄

@@ -1,0 +1,10 @@
+#
+Name: Engine x Start!! (melody mix)
+Path: EnginexStartmelodymix.CrossingSound.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.3
+Composer: CrossingSound
+Illustrator: 赤芽
+Charter: Clutter

@@ -1,0 +1,10 @@
+#
+Name: Diamond Eyes
+Path: DiamondEyes.SYNTHETIC.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.4
+Composer: SYNTHETIC
+Illustrator: 彗星 feat. 祈莲
+Charter: Clutter

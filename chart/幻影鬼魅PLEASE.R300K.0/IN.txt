@@ -1,0 +1,10 @@
+#
+Name: 幻影鬼魅 (PLEASE)
+Path: 幻影鬼魅PLEASE.R300K.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: R300K
+Illustrator: RM Design Team (青鸟 modified)
+Charter: M3d1uM

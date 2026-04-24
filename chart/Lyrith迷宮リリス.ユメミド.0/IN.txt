@@ -1,0 +1,10 @@
+#
+Name: Lyrith -迷宮リリス-
+Path: Lyrith迷宮リリス.ユメミド.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.1
+Composer: ユメミド
+Illustrator: 何呵
+Charter: XMT as "eX-MentalisT"

@@ -1,0 +1,10 @@
+#
+Name: After ZABANIYA (MUG Edit)
+Path: AfterZABANIYAMUGEdit.Daily天利.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Daily天利
+Illustrator: Nakaiankow feat. Daily天利
+Charter: After CHARTER

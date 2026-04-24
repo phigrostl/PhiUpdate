@@ -1,0 +1,10 @@
+#
+Name: inferior
+Path: inferior.姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.5
+Composer: 姜米條
+Illustrator: 群青kurara
+Charter: Ner, the inferior

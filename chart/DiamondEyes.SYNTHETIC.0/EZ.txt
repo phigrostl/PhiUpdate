@@ -1,0 +1,10 @@
+#
+Name: Diamond Eyes
+Path: DiamondEyes.SYNTHETIC.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.5
+Composer: SYNTHETIC
+Illustrator: 彗星 feat. 祈莲
+Charter: Su1fuR

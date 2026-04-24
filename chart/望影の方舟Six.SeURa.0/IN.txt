@@ -1,0 +1,10 @@
+#
+Name: 望影の方舟Six
+Path: 望影の方舟Six.SeURa.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.9
+Composer: Se-U-Ra
+Illustrator: 鲸弑
+Charter: 六回目Traveler Scend as "Knight of Arq"

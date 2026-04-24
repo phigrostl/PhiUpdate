@@ -1,0 +1,10 @@
+#
+Name: Stasis
+Path: Stasis.Maozon.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: Maozon
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: ST AS is XMT

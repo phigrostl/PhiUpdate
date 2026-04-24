@@ -1,0 +1,10 @@
+#
+Name: Retribution
+Path: Retribution.nmyKryexe.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.6
+Composer: nm-y & Kry.exe
+Illustrator: NerSAN
+Charter: NerSAN

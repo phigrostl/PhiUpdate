@@ -1,0 +1,10 @@
+#
+Name: You are the Miserable
+Path: YouaretheMiserable.tpazolite.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.1
+Composer: t+pazolite
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: We are the Miserable

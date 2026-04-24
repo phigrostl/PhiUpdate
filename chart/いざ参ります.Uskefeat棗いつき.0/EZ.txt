@@ -1,0 +1,10 @@
+#
+Name: いざ、参ります
+Path: いざ参ります.Uskefeat棗いつき.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.5
+Composer: U-ske feat. 棗いつき
+Illustrator: 緑風マルト
+Charter: Clutter & Barbarianerman

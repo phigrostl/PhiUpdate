@@ -1,0 +1,10 @@
+#
+Name: cryout
+Path: cryout.JuE.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.6
+Composer: Ju_E
+Illustrator: Haight
+Charter: Ctymax but 5 years later

@@ -1,0 +1,10 @@
+#
+Name: -SURREALISM-
+Path: SURREALISM.Itsuki.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.4
+Composer: Itsuki
+Illustrator: 喵n葵
+Charter: Su1fuR

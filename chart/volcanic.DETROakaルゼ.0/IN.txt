@@ -1,0 +1,10 @@
+#
+Name: volcanic
+Path: volcanic.DETROakaルゼ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.7
+Composer: DETRO a.k.a. ルゼ
+Illustrator: あおお/A-ZERO, morph
+Charter: Ctymax in a volcano, very delicious

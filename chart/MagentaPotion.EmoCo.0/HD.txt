@@ -1,0 +1,10 @@
+#
+Name: Magenta Potion
+Path: MagentaPotion.EmoCo.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.3
+Composer: EmoCo.
+Illustrator: NOISER
+Charter: Ctymax vs. 晨

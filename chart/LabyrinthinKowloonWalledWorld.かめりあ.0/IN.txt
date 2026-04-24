@@ -1,0 +1,10 @@
+#
+Name: Labyrinth in Kowloon: Walled World
+Path: LabyrinthinKowloonWalledWorld.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.6
+Composer: かめりあ
+Illustrator: 鲸弑
+Charter: 198 in Kowloon

@@ -1,0 +1,10 @@
+#
+Name: Class Memories
+Path: ClassMemories.AntistarfeatCtymax.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.8
+Composer: Antistar feat. Ctymax
+Illustrator: xperz
+Charter: JKy

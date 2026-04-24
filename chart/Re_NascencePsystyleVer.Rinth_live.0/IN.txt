@@ -1,0 +1,10 @@
+#
+Name: Re_Nascence (Psystyle Ver.) 
+Path: Re_NascencePsystyleVer.Rinth_live.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.4
+Composer: Rinth_live
+Illustrator: Tsuioku
+Charter: NerSAN & 百九十八

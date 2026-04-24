@@ -1,0 +1,10 @@
+#
+Name: Another Me
+Path: AnotherMe.NeutralMoon.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.6
+Composer: Neutral Moon
+Illustrator: IvyTowers
+Charter: NerSAN

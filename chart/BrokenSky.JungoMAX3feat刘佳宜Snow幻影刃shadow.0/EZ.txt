@@ -1,0 +1,10 @@
+#
+Name: Broken Sky
+Path: BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow
+Illustrator: 午苔veeee~
+Charter: Clutter

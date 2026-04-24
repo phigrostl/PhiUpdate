@@ -1,0 +1,10 @@
+#
+Name: Originally
+Path: Originally.SNKSMizku.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.1.0
+Composer: SNKS & Mizku
+Illustrator: Keiby.comics
+Charter: StR-1

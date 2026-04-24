@@ -1,0 +1,10 @@
+#
+Name: Diamond Dust
+Path: DiamondDust.MasahiroGodspeedAoki.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.7
+Composer: Masahiro “Godspeed” Aoki
+Illustrator: SEGA (V17AMax modified)
+Charter: StupiGGy

@@ -1,0 +1,10 @@
+#
+Name: Initialize
+Path: Initialize.iF.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.11.6
+Composer: iF
+Illustrator: あおお/A-ZERO, morph
+Charter: Arenn Saki vs. NerSAN

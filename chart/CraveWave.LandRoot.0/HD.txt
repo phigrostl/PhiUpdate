@@ -1,0 +1,10 @@
+#
+Name: Crave Wave
+Path: CraveWave.LandRoot.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.0
+Composer: LandRoot
+Illustrator: 笔记RE
+Charter: Likey

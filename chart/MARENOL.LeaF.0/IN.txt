@@ -1,0 +1,10 @@
+#
+Name: MARENOL
+Path: MARENOL.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.9
+Composer: LeaF
+Illustrator: 喵n葵
+Charter: 百九十八

@@ -1,0 +1,10 @@
+#
+Name: Chronomia
+Path: Chronomia.Lime.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.1
+Composer: Lime
+Illustrator: inukoro
+Charter: Rikko

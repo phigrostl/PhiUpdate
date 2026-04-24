@@ -1,0 +1,10 @@
+#
+Name: Bonus Time
+Path: BonusTime.MegaloPaleWhite.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.5
+Composer: Megalo_PaleWhite
+Illustrator: 笔记RE
+Charter: Clutter

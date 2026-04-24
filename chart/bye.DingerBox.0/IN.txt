@@ -1,0 +1,10 @@
+#
+Name: bye
+Path: bye.DingerBox.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.8
+Composer: DingerBox
+Illustrator: 海产
+Charter: Ner ~ See you next time ~

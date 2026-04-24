@@ -1,0 +1,10 @@
+#
+Name: Ποσειδών
+Path: Poseidon.1112vsStar.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.12.8
+Composer: 1112 vs. Star＊
+Illustrator: 老张
+Charter: Jαckψ feat. Βαρβαροςαντρας

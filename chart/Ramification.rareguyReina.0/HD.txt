@@ -1,0 +1,10 @@
+#
+Name: Ramification
+Path: Ramification.rareguyReina.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.4
+Composer: rareguy & Reina
+Illustrator: cokeAnut
+Charter: totally ramified COC

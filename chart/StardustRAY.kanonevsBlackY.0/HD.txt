@@ -1,0 +1,10 @@
+#
+Name: Stardust:RAY
+Path: StardustRAY.kanonevsBlackY.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.3
+Composer: kanone vs. BlackY
+Illustrator: SEGA (V17AMax modified)
+Charter: Su1fuR vs. Simon_Axis

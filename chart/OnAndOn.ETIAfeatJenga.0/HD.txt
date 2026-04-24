@@ -1,0 +1,10 @@
+#
+Name: On And On!!
+Path: OnAndOn.ETIAfeatJenga.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: ETIA. feat. Jenga
+Illustrator: わっふゑ
+Charter: Rikko

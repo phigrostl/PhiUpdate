@@ -1,0 +1,10 @@
+#
+Name: RESSiSTANCE
+Path: RESSiSTANCE.ぐるたみん.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.1
+Composer: ぐるたみん
+Illustrator: LINUS
+Charter: 其三 我所存在的证明

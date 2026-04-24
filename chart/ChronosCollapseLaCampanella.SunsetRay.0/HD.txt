@@ -1,0 +1,10 @@
+#
+Name: Chronos Collapse - La Campanella
+Path: ChronosCollapseLaCampanella.SunsetRay.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.5
+Composer: SunsetRay
+Illustrator: 老张
+Charter: 阿爽『Destroy』

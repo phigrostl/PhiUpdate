@@ -1,0 +1,10 @@
+#
+Name: Shadow
+Path: Shadow.SumaiLightvs姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: 姜米條&SumaiLight
+Illustrator: 御坂果子
+Charter: Sillyp vs. 晨

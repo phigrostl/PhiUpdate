@@ -1,0 +1,10 @@
+#
+Name: 双重间谍 (Double Agent)
+Path: 双重间谍DoubleAgent.WAVAV.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Wav.AV
+Illustrator: RM Design Team (青鸟 modified)
+Charter: 穿山甲-1

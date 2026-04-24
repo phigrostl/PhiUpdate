@@ -1,0 +1,10 @@
+#
+Name: Triumph & Regret
+Path: TriumphRegret.typeMARS.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: typeMARS
+Illustrator: 何呵
+Charter: Barbarianerman & Regret

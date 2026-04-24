@@ -1,0 +1,10 @@
+#
+Name: valor/starcross
+Path: valorstarcross.LundyvsWyvren.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: Lundy vs. Wyvren
+Illustrator: AriaL & 57_dayo [edited by Stelli]
+Charter: vesper/straycat

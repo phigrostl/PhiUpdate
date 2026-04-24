@@ -1,0 +1,10 @@
+#
+Name: -Arkhei-
+Path: Arkhei.SeraAmagi.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.5
+Composer: Sera Amagi
+Illustrator: Hachimitsu☆Boy
+Charter: -JKy-

@@ -1,0 +1,10 @@
+#
+Name: Lyrith -迷宮リリス-
+Path: Lyrith迷宮リリス.ユメミド.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: ユメミド
+Illustrator: 何呵
+Charter: Arenn Saki as "mAze"

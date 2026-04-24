@@ -1,0 +1,10 @@
+#
+Name: dB doll
+Path: dBdoll.YUESTEVENuen.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.3.5
+Composer: YUE.STEVEN/uen
+Illustrator: 何呵
+Charter: 阿爽 fixed by Barbarianerman

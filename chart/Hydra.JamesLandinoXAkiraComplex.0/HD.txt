@@ -1,0 +1,10 @@
+#
+Name: Hydra
+Path: Hydra.JamesLandinoXAkiraComplex.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.6
+Composer: James Landino X Akira Complex
+Illustrator: ©2025 Rayark Inc. CYTUS II®
+Charter: COC

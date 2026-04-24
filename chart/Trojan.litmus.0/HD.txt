@@ -1,0 +1,10 @@
+#
+Name: Trojan
+Path: Trojan.litmus.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.8
+Composer: litmus*
+Illustrator: Lapelristar (青鸟&V17AMax Modified)
+Charter: M3d1uM

@@ -1,0 +1,10 @@
+#
+Name: HumaN
+Path: HumaN.SOTUI.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: SOTUI
+Illustrator: CH
+Charter: Clutter

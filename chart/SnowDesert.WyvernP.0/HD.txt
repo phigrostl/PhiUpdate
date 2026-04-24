@@ -1,0 +1,10 @@
+#
+Name: Snow Desert
+Path: SnowDesert.WyvernP.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.3
+Composer: WyvernP
+Illustrator: knife美工刀
+Charter: VikingNexus

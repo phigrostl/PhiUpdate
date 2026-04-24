@@ -1,0 +1,10 @@
+#
+Name: RIPPER
+Path: RIPPER.Friedwav.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.7
+Composer: Friedwav
+Illustrator: 何呵
+Charter: 撕裂者『無極』 fixed by 晨

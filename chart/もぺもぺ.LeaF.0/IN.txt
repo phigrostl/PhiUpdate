@@ -1,0 +1,10 @@
+#
+Name: もぺもぺ
+Path: もぺもぺ.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.11.1
+Composer: LeaF
+Illustrator: cycat
+Charter: 阿爽

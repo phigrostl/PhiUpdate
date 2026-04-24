@@ -1,0 +1,10 @@
+#
+Name: Radiance
+Path: Radiance.Nhato.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.9
+Composer: Nhato
+Illustrator: SEGA (V17AMax modified)
+Charter: Rikko EXPERT Lv.40

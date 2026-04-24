@@ -1,0 +1,10 @@
+#
+Name: Luminescent
+Path: Luminescent.Daison.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.7
+Composer: Daison
+Illustrator: 鲸弑
+Charter: Uvernight

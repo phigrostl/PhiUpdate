@@ -1,0 +1,10 @@
+#
+Name: [PRAW]
+Path: PRAW.Bluewind.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.1
+Composer: Bluewind
+Illustrator: 老张
+Charter: 晨 vs. 阿爽

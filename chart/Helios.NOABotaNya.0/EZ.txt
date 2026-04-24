@@ -1,0 +1,10 @@
+#
+Name: Helios
+Path: Helios.NOABotaNya.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: NOA(Cortrix) & BotaNya
+Illustrator: Spectro
+Charter: jeitie goes outside

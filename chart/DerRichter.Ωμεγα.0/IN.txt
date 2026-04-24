@@ -1,0 +1,10 @@
+#
+Name: Der Richter
+Path: DerRichter.Ωμεγα.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.6
+Composer: Ωμεγα
+Illustrator: 森灵
+Charter: Absolute(6)

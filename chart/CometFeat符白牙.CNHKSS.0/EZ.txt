@@ -1,0 +1,10 @@
+#
+Name: Comet
+Path: CometFeat符白牙.CNHKSS.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: CNHKSS feat. 符白牙
+Illustrator: 小黄鸡叽叽叽叽叽叽修复中
+Charter: StaR-1

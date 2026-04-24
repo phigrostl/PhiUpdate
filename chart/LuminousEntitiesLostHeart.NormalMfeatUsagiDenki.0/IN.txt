@@ -1,0 +1,10 @@
+#
+Name: Luminous Entities Lost Heart
+Path: LuminousEntitiesLostHeart.NormalMfeatUsagiDenki.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: NormalM feat. Usagi Denki
+Illustrator: Transendium
+Charter: 光る星

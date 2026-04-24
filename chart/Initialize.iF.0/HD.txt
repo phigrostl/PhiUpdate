@@ -1,0 +1,10 @@
+#
+Name: Initialize
+Path: Initialize.iF.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.0
+Composer: iF
+Illustrator: あおお/A-ZERO, morph
+Charter: NerSAN

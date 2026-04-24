@@ -1,0 +1,10 @@
+#
+Name: Eradication Catastrophe
+Path: EradicationCatastrophe.NceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.12.7
+Composer: NceS
+Illustrator: 海产
+Charter: Barbarianerman

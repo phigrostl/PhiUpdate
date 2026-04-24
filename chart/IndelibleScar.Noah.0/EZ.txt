@@ -1,0 +1,10 @@
+#
+Name: Indelible Scar
+Path: IndelibleScar.Noah.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.0
+Composer: Noah
+Illustrator: 兜
+Charter: Clutter & Barbarianerman

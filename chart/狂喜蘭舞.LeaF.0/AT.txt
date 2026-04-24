@@ -1,0 +1,10 @@
+#
+Name: 狂喜蘭舞
+Path: 狂喜蘭舞.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.4
+Composer: LeaF
+Illustrator: DoublePian
+Charter: Catcats a.k.a. 無極 vs. H.C.C. fixed by 野从&晨

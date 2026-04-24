@@ -1,0 +1,10 @@
+#
+Name: NightTheater
+Path: NightTheater.わかどり.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.3
+Composer: わかどり
+Illustrator: 青鸟
+Charter: LuminousGausbon

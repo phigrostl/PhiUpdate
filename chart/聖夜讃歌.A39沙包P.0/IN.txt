@@ -1,0 +1,10 @@
+#
+Name: 聖夜讃歌
+Path: 聖夜讃歌.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: A-39/沙包P
+Illustrator: 绀屋
+Charter: NerSANTA & Gausbell

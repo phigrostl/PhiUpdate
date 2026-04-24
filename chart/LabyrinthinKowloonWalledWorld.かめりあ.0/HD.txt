@@ -1,0 +1,10 @@
+#
+Name: Labyrinth in Kowloon: Walled World
+Path: LabyrinthinKowloonWalledWorld.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.4
+Composer: かめりあ
+Illustrator: 鲸弑
+Charter: VikingNexus

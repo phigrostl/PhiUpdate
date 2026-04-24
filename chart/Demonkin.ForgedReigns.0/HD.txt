@@ -1,0 +1,10 @@
+#
+Name: Demonkin
+Path: Demonkin.ForgedReigns.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.2
+Composer: Forged Reigns
+Illustrator: Jeffery
+Charter: Alloces

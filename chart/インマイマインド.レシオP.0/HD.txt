@@ -1,0 +1,10 @@
+#
+Name: インマイマインド
+Path: インマイマインド.レシオP.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.2
+Composer: レシオP
+Illustrator: すずか爆弾
+Charter: Salt

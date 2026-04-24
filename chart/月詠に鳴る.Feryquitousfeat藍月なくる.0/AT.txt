@@ -1,0 +1,10 @@
+#
+Name: 月詠に鳴る
+Path: 月詠に鳴る.Feryquitousfeat藍月なくる.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.15.7
+Composer: Feryquitous feat.藍月なくる
+Illustrator: SEGA (V17AMax modified)
+Charter: StupiGGy

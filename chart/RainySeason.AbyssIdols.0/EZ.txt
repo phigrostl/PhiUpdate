@@ -1,0 +1,10 @@
+#
+Name: Rainy Season
+Path: RainySeason.AbyssIdols.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: Abyss Idols
+Illustrator: Robin
+Charter: StupiGGy

@@ -1,0 +1,10 @@
+#
+Name: Indelible Scar
+Path: IndelibleScar.Noah.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.5
+Composer: Noah
+Illustrator: 兜
+Charter: Salt & Barbarianerman

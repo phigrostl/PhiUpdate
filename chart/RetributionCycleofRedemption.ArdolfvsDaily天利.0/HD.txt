@@ -1,0 +1,10 @@
+#
+Name: Retribution ~ Cycle of Redemption ~ 
+Path: RetributionCycleofRedemption.ArdolfvsDaily天利.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.3
+Composer: Ardolf vs. Daily天利
+Illustrator: 死と花の大祭司(ʌᴉoƨმᴉϝ);;
+Charter: StR-1 & 右果_Ary

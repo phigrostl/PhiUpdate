@@ -1,0 +1,10 @@
+#
+Name: Xenophobia
+Path: Xenophobia.XinG.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.5
+Composer: XinG
+Illustrator: Ots-15
+Charter: Skuwo

@@ -1,0 +1,10 @@
+#
+Name: 000 -Ain Soph Aur-
+Path: 000AinSophAur.Yumeji.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.4
+Composer: Yumeji
+Illustrator: NerSAN
+Charter: 啊0哒0咔0哟 & Dilated

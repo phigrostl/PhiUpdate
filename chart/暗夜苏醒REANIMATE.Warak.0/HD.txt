@@ -1,0 +1,10 @@
+#
+Name: 暗夜苏醒 (REANIMATE)
+Path: 暗夜苏醒REANIMATE.Warak.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.8
+Composer: Warak
+Illustrator: MHK (青鸟 modified)
+Charter: reanimate_6k_nm.imd

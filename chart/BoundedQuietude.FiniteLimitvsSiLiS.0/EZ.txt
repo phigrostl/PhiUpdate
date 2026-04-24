@@ -1,0 +1,10 @@
+#
+Name: Bounded Quietude
+Path: BoundedQuietude.FiniteLimitvsSiLiS.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.0
+Composer: Finite Limit vs SiLiS
+Illustrator: Hiro vs Zeth
+Charter: LonelyKnight

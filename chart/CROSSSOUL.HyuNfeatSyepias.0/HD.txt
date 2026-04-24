@@ -1,0 +1,10 @@
+#
+Name: CROSS†SOUL
+Path: CROSSSOUL.HyuNfeatSyepias.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.6
+Composer: HyuN feat. Syepias
+Illustrator: knife美工刀
+Charter: 無†極 fixed by Rikko

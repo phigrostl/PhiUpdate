@@ -1,0 +1,10 @@
+#
+Name: c.s.q.n.
+Path: csqn.Aoi.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Aoi
+Illustrator: Ctymax vs. TNiK feat. 出前
+Charter: b.b.n.m.

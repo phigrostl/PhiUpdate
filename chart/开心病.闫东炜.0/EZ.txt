@@ -1,0 +1,10 @@
+#
+Name: 开心病
+Path: 开心病.闫东炜.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.0
+Composer: 闫东炜
+Illustrator: 昔璃
+Charter: HaraKuma

@@ -1,0 +1,10 @@
+#
+Name: Igallta
+Path: Igallta.SeURa.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.4
+Composer: Se-U-Ra
+Illustrator: Se-U-Ra
+Charter: 断罪の剣『神』

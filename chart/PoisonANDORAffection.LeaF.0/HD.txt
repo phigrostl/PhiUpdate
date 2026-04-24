@@ -1,0 +1,10 @@
+#
+Name: Poison AND÷OR Affection
+Path: PoisonANDORAffection.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.9
+Composer: LeaF
+Illustrator: 笔记RE/海产
+Charter: &ikko

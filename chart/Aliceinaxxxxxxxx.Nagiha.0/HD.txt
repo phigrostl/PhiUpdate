@@ -1,0 +1,10 @@
+#
+Name: Alice in a xxxxxxxx
+Path: Aliceinaxxxxxxxx.Nagiha.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.5
+Composer: Nagiha
+Illustrator: 神居冰绘 feat. 祈莲
+Charter: XMT小咩兔

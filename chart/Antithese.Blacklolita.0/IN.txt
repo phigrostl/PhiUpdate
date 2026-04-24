@@ -1,0 +1,10 @@
+#
+Name: Antithese
+Path: Antithese.Blacklolita.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.4
+Composer: Blacklolita
+Illustrator: 釜飯轟々丸 + jht (Design: 祈莲)
+Charter: StupiGGy -The Origin-

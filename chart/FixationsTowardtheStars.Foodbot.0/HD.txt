@@ -1,0 +1,10 @@
+#
+Name: Fixations Toward the Stars
+Path: FixationsTowardtheStars.Foodbot.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.9
+Composer: Foodbot
+Illustrator: AriaL [edited by Stelli]
+Charter: OPENING/Level R

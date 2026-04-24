@@ -1,0 +1,10 @@
+#
+Name: Disorder
+Path: Disorder.HyuNfeatYURI.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: HyuN feat. YURI
+Illustrator: Nabom
+Charter: Gausbon

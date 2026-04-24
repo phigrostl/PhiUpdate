@@ -1,0 +1,10 @@
+#
+Name: Xep+ion
+Path: Xepion.Acotto.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.8
+Composer: Acotto
+Illustrator: クルス (Ctymax modified)
+Charter: Su1fuRikko

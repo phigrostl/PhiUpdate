@@ -1,0 +1,10 @@
+#
+Name: Distorted Fate
+Path: DistortedFate.Sakuzyo.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.13.5
+Composer: Sakuzyo
+Illustrator: knife美工刀
+Charter: Doubt Ful

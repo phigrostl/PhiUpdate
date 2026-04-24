@@ -1,0 +1,10 @@
+#
+Name: SIGMA
+Path: SIGMA.Kryexe.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Kry.exe
+Illustrator: 塔塔
+Charter: Barbarianerman.exe

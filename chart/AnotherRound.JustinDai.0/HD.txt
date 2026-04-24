@@ -1,0 +1,10 @@
+#
+Name: Another Round
+Path: AnotherRound.JustinDai.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: Justin Dai
+Illustrator: 艾是Abby
+Charter: Another Stage

@@ -1,0 +1,10 @@
+#
+Name: Apocalyptic
+Path: Apocalyptic.ZClaxxSumaiLight.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: Z ClaxX & SumaiLight
+Illustrator: 佑木いずみ & Ctymax
+Charter: 阿爽

@@ -1,0 +1,10 @@
+#
+Name: ジングルベル(Jingle Bell)
+Path: ジングルベルJingleBell.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: A-39/沙包P
+Illustrator: 爱39的Konya
+Charter: merry CNrisTimas

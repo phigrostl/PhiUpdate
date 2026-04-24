@@ -1,0 +1,10 @@
+#
+Name: Devotion
+Path: Devotion.Connexio.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: Connexio
+Illustrator: Shimoruchiko
+Charter: StupiGGy

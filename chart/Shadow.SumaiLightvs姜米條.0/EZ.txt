@@ -1,0 +1,10 @@
+#
+Name: Shadow
+Path: Shadow.SumaiLightvs姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.5
+Composer: 姜米條&SumaiLight
+Illustrator: 御坂果子
+Charter: 晨

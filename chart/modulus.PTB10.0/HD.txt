@@ -1,0 +1,10 @@
+#
+Name: modulus
+Path: modulus.PTB10.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.4
+Composer: PTB10
+Illustrator: geralt
+Charter: Cty moyules

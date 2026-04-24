@@ -1,0 +1,10 @@
+#
+Name: BRAIN HACKER
+Path: BRAINHACKER.SOMON.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.8
+Composer: SOMON
+Illustrator: SOMON
+Charter: COLORFUL BLACK GAUSBON

@@ -1,0 +1,10 @@
+#
+Name: Comet
+Path: CometFeat符白牙.CNHKSS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.5
+Composer: CNHKSS feat. 符白牙
+Illustrator: 小黄鸡叽叽叽叽叽叽修复中
+Charter: 無彩色

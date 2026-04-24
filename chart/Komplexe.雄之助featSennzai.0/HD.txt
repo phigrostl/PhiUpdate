@@ -1,0 +1,10 @@
+#
+Name: Komplexe
+Path: Komplexe.雄之助featSennzai.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: 雄之助 feat. Sennzai
+Illustrator: SEGA (祈莲 modified)
+Charter: 右果_Ary

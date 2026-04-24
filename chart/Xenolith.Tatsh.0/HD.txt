@@ -1,0 +1,10 @@
+#
+Name: Xenolith
+Path: Xenolith.Tatsh.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.5
+Composer: Tatsh
+Illustrator: 2AI4wU4
+Charter: RXhuang

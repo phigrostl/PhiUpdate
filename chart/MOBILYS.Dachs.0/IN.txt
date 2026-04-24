@@ -1,0 +1,10 @@
+#
+Name: MOBILYS
+Path: MOBILYS.Dachs.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.3
+Composer: Dachs
+Illustrator: わっふゑ
+Charter: StupiGGy vs. 百九十八 ft. 野从

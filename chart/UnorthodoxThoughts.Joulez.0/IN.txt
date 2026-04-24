@@ -1,0 +1,10 @@
+#
+Name: Unorthodox Thoughts
+Path: UnorthodoxThoughts.Joulez.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.9
+Composer: Joulez
+Illustrator: ASXX
+Charter: Barbarianerman vs. HaraKuma

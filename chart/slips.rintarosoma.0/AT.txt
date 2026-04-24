@@ -1,0 +1,10 @@
+#
+Name: sølips
+Path: slips.rintarosoma.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.8
+Composer: rintaro soma
+Illustrator: SEGA (祈莲 modified)
+Charter: ø

@@ -1,0 +1,10 @@
+#
+Name: 祈 -我ら神祖と共に歩む者なり-
+Path: 祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.4
+Composer: 光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音
+Illustrator: SEGA (V17AMax modified)
+Charter: 兔咩小 VS 咩小兔 VS 小兔咩 VS 咩兔小 VS 兔小咩

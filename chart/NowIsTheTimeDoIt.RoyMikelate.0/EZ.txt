@@ -1,0 +1,10 @@
+#
+Name: Now Is The Time, Do It
+Path: NowIsTheTimeDoIt.RoyMikelate.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Roy Mikelate
+Illustrator: 青鸟
+Charter: M3d1uM

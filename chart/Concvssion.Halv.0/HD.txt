@@ -1,0 +1,10 @@
+#
+Name: Concvssion
+Path: Concvssion.Halv.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.3
+Composer: Halv
+Illustrator: 汉堡
+Charter: 晨

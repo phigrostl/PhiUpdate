@@ -1,0 +1,10 @@
+#
+Name: The Whole Rest
+Path: TheWholeRest.KIVΛ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: KIVΛ
+Illustrator: ©2025 Rayark Inc. CYTUS II®
+Charter: ¯EASY

@@ -1,0 +1,10 @@
+#
+Name: NO x
+Path: NOx.Juggernaut.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.1
+Composer: Juggernaut.
+Illustrator: cala for Immaculée Sekai
+Charter: StR-1

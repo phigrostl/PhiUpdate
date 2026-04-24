@@ -1,0 +1,10 @@
+#
+Name: 重生
+Path: 重生.姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.8
+Composer: 姜米條
+Illustrator: 昔璃&TNiK
+Charter: Barbarianerman

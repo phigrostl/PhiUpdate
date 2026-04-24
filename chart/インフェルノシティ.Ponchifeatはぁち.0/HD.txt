@@ -1,0 +1,10 @@
+#
+Name: インフェルノシティ
+Path: インフェルノシティ.Ponchifeatはぁち.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.5
+Composer: Ponchi♪ feat. はぁち
+Illustrator: LESYEF & 藍瀬 まなみ
+Charter: Alloces feat. Uvernight

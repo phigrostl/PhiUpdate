@@ -1,0 +1,10 @@
+#
+Name: The Chariot ~REVIIVAL~
+Path: TheChariotREVIIVAL.Attoclef.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.0
+Composer: Attoclef
+Illustrator: 翠冷兮
+Charter: Ctymax drives in BlindForest

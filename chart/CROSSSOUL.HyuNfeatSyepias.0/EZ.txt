@@ -1,0 +1,10 @@
+#
+Name: CROSS†SOUL
+Path: CROSSSOUL.HyuNfeatSyepias.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.5
+Composer: HyuN feat. Syepias
+Illustrator: knife美工刀
+Charter: 無†極

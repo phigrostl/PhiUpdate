@@ -1,0 +1,10 @@
+#
+Name: Grimheart
+Path: Grimheart.Puru.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: Puru
+Illustrator: 临时工 & 倪尔
+Charter: SimonAxis

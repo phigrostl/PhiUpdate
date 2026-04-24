@@ -1,0 +1,10 @@
+#
+Name: PRAGMATISM -RESURRECTION-
+Path: PRAGMATISMRESURRECTION.Laur.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.9
+Composer: Laur
+Illustrator: シエラ (Design: 祈莲)
+Charter: 完璧 × 北星

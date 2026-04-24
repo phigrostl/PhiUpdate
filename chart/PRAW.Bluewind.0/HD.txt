@@ -1,0 +1,10 @@
+#
+Name: [PRAW]
+Path: PRAW.Bluewind.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.6
+Composer: Bluewind
+Illustrator: 老张
+Charter: Likey

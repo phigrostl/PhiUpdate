@@ -1,0 +1,10 @@
+#
+Name: 零號車輛
+Path: 零號車輛.seatrus.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.1
+Composer: seatrus
+Illustrator: 2AI4wU4
+Charter: 壹號阿爽

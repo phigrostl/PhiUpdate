@@ -1,0 +1,10 @@
+#
+Name: Random
+Path: Random.SobremSilentroom.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: Sobrem × Silentroom
+Illustrator: Harkiadel
+Charter: Barbarianerman

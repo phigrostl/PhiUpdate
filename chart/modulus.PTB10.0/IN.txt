@@ -1,0 +1,10 @@
+#
+Name: modulus
+Path: modulus.PTB10.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.9
+Composer: PTB10
+Illustrator: geralt
+Charter: Pat Brick Man Mr.C

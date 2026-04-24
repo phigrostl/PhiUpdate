@@ -1,0 +1,10 @@
+#
+Name: Another Me
+Path: AnotherMe.DAAN.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.8
+Composer: D_AAN
+Illustrator: ZG
+Charter: Another cat

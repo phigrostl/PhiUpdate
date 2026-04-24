@@ -1,0 +1,10 @@
+#
+Name: AbsoluTe disoRdeR
+Path: AbsoluTedisoRdeR.AcuteDisarray.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.2
+Composer: Acute Disarray
+Illustrator: Kyuare & Wsx
+Charter: Apocalyptic Dissonance

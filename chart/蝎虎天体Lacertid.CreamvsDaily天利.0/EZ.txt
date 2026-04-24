@@ -1,0 +1,10 @@
+#
+Name: 蝎虎天体 -Lacertid-
+Path: 蝎虎天体Lacertid.CreamvsDaily天利.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Cream vs. Daily天利
+Illustrator: 白 & 小鹏xpeng
+Charter: StR-1

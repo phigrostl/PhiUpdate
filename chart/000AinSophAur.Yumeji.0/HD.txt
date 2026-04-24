@@ -1,0 +1,10 @@
+#
+Name: 000 -Ain Soph Aur-
+Path: 000AinSophAur.Yumeji.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.4
+Composer: Yumeji
+Illustrator: NerSAN
+Charter: Magazet

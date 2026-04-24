@@ -1,0 +1,10 @@
+#
+Name: Rubbish Sorting
+Path: RubbishSorting.CtymaxvsNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.4
+Composer: Ctymax vs. NceS
+Illustrator: knife美工刀
+Charter: 阿爽 vs. Ctymax -Haose 垃圾-

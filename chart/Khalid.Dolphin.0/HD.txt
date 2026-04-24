@@ -1,0 +1,10 @@
+#
+Name: Khalid
+Path: Khalid.Dolphin.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.2
+Composer: Dolphin
+Illustrator: HAZUQU
+Charter: Barbarialid

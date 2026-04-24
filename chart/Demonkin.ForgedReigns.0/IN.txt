@@ -1,0 +1,10 @@
+#
+Name: Demonkin
+Path: Demonkin.ForgedReigns.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.8
+Composer: Forged Reigns
+Illustrator: Jeffery
+Charter: Sillyp & Alloces

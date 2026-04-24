@@ -1,0 +1,10 @@
+#
+Name: Chronostasis
+Path: Chronostasis.黒皇帝.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: 黒皇帝
+Illustrator: Sand
+Charter: Uvernight

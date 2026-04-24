@@ -1,0 +1,10 @@
+#
+Name: Burn
+Path: Burn.NceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.2
+Composer: NceS
+Illustrator: knife美工刀
+Charter: Burn Full Catcats

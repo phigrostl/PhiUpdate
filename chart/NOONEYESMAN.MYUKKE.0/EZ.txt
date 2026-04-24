@@ -1,0 +1,10 @@
+#
+Name: NO ONE YES MAN
+Path: NOONEYESMAN.MYUKKE.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.0
+Composer: MYUKKE.
+Illustrator: 青鸟
+Charter: Ctymax

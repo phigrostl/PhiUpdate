@@ -1,0 +1,10 @@
+#
+Name: Journey with You
+Path: JourneywithYou.Iris.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.0
+Composer: Iris
+Illustrator: BTKCyber (青鸟 modified)
+Charter: jouR.ney to the end【COVERED】

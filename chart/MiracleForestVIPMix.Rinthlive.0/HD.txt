@@ -1,0 +1,10 @@
+#
+Name: Miracle Forest (VIP Mix)
+Path: MiracleForestVIPMix.Rinthlive.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.5
+Composer: Rinth_live
+Illustrator: L-sp4
+Charter: 奇跡の希

@@ -1,0 +1,10 @@
+#
+Name: KIZUNA Resolution
+Path: KIZUNAResolution.TAG.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.13.4
+Composer: TAG
+Illustrator: Transendium
+Charter: HD R.esolution

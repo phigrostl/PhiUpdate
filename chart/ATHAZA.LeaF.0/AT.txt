@@ -1,0 +1,10 @@
+#
+Name: ATHAZA
+Path: ATHAZA.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.6
+Composer: LeaF
+Illustrator: 御坂果子
+Charter: FORGET :: CLUTTER

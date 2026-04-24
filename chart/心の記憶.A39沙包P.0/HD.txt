@@ -1,0 +1,10 @@
+#
+Name: 心の記憶
+Path: 心の記憶.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.1
+Composer: A-39/沙包P
+Illustrator: 爱39的Konya
+Charter: Su1fuR

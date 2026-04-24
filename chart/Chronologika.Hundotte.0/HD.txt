@@ -1,0 +1,10 @@
+#
+Name: Chronologika
+Path: Chronologika.Hundotte.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.8
+Composer: Hundotte
+Illustrator: 幽灵星
+Charter: XMT小咩兔

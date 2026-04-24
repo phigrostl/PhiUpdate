@@ -1,0 +1,10 @@
+#
+Name: Another Me
+Path: AnotherMe.NeutralMoon.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: Neutral Moon
+Illustrator: IvyTowers
+Charter: Another M3

@@ -1,0 +1,10 @@
+#
+Name: Cipher : /2&//<|0
+Path: Cipher20.TetrajectoryfeatCtymax.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Tetrajectory feat. Ctymax
+Illustrator: IvyTowers
+Charter: M3d1uM

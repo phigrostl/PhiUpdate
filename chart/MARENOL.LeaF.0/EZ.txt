@@ -1,0 +1,10 @@
+#
+Name: MARENOL
+Path: MARENOL.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.2.0
+Composer: LeaF
+Illustrator: 喵n葵
+Charter: H.C.C. fixed by Barbarinerman

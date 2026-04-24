@@ -1,0 +1,10 @@
+#
+Name: Igallta
+Path: Igallta.SeURa.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.2
+Composer: Se-U-Ra
+Illustrator: Se-U-Ra
+Charter: 平川の剣『士』

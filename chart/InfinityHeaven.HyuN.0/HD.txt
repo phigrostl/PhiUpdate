@@ -1,0 +1,10 @@
+#
+Name: Infinity Heaven
+Path: InfinityHeaven.HyuN.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.4
+Composer: HyuN
+Illustrator: DoublePian
+Charter: 晨 vs. 阿爽

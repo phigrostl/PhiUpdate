@@ -1,0 +1,10 @@
+#
+Name: Reimei
+Path: Reimei.影虎.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.1
+Composer: 影虎。
+Illustrator: 英英英
+Charter: 百九十八

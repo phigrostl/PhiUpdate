@@ -1,0 +1,10 @@
+#
+Name: Compute It With Some Devilish Alcoholic Steampunk Engines
+Path: ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: かめりあ
+Illustrator: 山崎团
+Charter: Gausbon vs. XMT小咩兔

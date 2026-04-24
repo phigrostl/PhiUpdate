@@ -1,0 +1,10 @@
+#
+Name: Locomotive
+Path: Locomotive.K.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.7
+Composer: ♠K
+Illustrator: Otaku_宅
+Charter: Motorcoach

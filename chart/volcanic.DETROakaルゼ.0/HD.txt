@@ -1,0 +1,10 @@
+#
+Name: volcanic
+Path: volcanic.DETROakaルゼ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.1
+Composer: DETRO a.k.a. ルゼ
+Illustrator: あおお/A-ZERO, morph
+Charter: Rikko

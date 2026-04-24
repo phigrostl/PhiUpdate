@@ -1,0 +1,10 @@
+#
+Name: ATHAZA
+Path: ATHAZA.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.8.6
+Composer: LeaF
+Illustrator: 御坂果子
+Charter: LDAJOY&PLEASANT ^V^ LDA

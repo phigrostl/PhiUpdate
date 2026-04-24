@@ -1,0 +1,10 @@
+#
+Name: Colorful Days♪
+Path: ColorfulDays.P4koofeatつゆり花鈴.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.0
+Composer: P4koo feat. つゆり花鈴
+Illustrator: Doro-nyong & Ratif
+Charter: 阿♪爽

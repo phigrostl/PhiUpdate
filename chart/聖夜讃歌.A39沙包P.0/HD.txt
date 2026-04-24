@@ -1,0 +1,10 @@
+#
+Name: 聖夜讃歌
+Path: 聖夜讃歌.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.1
+Composer: A-39/沙包P
+Illustrator: 绀屋
+Charter: 爽夜讃歌

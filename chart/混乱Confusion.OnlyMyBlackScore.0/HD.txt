@@ -1,0 +1,10 @@
+#
+Name: 混乱-Confusion
+Path: 混乱Confusion.OnlyMyBlackScore.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.0
+Composer: Only My Black Score
+Illustrator: L-sp4
+Charter: StR-1

@@ -1,0 +1,10 @@
+#
+Name: Doppelganger
+Path: Doppelganger.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.1
+Composer: LeaF
+Illustrator: 海产
+Charter: Gausbon

@@ -1,0 +1,10 @@
+#
+Name: Indelible Scar
+Path: IndelibleScar.Noah.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.5
+Composer: Noah
+Illustrator: 兜
+Charter: 上班睡大觉_Sleepyhead

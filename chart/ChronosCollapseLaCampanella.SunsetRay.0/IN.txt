@@ -1,0 +1,10 @@
+#
+Name: Chronos Collapse - La Campanella
+Path: ChronosCollapseLaCampanella.SunsetRay.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.3
+Composer: SunsetRay
+Illustrator: 老张
+Charter: NerSAN vs. 阿爽 『Collapse』

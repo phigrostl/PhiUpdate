@@ -1,0 +1,10 @@
+#
+Name: ニライカナイ (NiraicA_nai Mix)
+Path: ニライカナイNiraicA_naiMix.roopfromSTR.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.3
+Composer: roop from STR
+Illustrator: 3z
+Charter: Ctymax respect for STAR TRACK in 2008

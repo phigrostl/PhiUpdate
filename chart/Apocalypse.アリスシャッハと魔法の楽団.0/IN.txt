@@ -1,0 +1,10 @@
+#
+Name: Apocalypse
+Path: Apocalypse.アリスシャッハと魔法の楽団.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.5
+Composer: アリスシャッハと魔法の楽団
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: Rikko & 198

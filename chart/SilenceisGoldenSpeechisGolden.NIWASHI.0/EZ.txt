@@ -1,0 +1,10 @@
+#
+Name: Silence is Golden, Speech is Golden
+Path: SilenceisGoldenSpeechisGolden.NIWASHI.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: NIWASHI
+Illustrator: Jerry & OsuMe65
+Charter: Clutter is coppery，Tumult is coppery

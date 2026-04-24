@@ -1,0 +1,10 @@
+#
+Name: Devotion
+Path: Devotion.Connexio.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.7
+Composer: Connexio
+Illustrator: Shimoruchiko
+Charter: Salt

@@ -1,0 +1,10 @@
+#
+Name: 996
+Path: 996.李化禹.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: 李化禹
+Illustrator: 笔记RE
+Charter: RTH

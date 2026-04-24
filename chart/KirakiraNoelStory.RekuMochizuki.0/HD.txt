@@ -1,0 +1,10 @@
+#
+Name: Kirakira Noel Story!!
+Path: KirakiraNoelStory.RekuMochizuki.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.2
+Composer: Reku Mochizuki
+Illustrator: ナナシ
+Charter: 头鱼头鱼 MAX Story!!

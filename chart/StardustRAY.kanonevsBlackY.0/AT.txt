@@ -1,0 +1,10 @@
+#
+Name: Stardust:RAY
+Path: StardustRAY.kanonevsBlackY.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.2
+Composer: kanone vs. BlackY
+Illustrator: SEGA (V17AMax modified)
+Charter: 完璧 vs. 癒株 -Autumn Memory-

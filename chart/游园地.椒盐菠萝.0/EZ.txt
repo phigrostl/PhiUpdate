@@ -1,0 +1,10 @@
+#
+Name: 游园地
+Path: 游园地.椒盐菠萝.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.2.5
+Composer: 椒盐菠萝
+Illustrator: CEM
+Charter: 野从菠萝

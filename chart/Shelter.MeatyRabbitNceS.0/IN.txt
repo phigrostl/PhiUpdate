@@ -1,0 +1,10 @@
+#
+Name: Shelter
+Path: Shelter.MeatyRabbitNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.2
+Composer: MeatyRabbit & NceS
+Illustrator: 诡异童话
+Charter: 人外侵略地球计划

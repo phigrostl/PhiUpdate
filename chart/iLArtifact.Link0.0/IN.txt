@@ -1,0 +1,10 @@
+#
+Name: iL-Artifact
+Path: iLArtifact.Link0.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.7
+Composer: Link''0
+Illustrator: Fl00t
+Charter: XMT小咩兔 vs. 上班睡大觉_Sleepyhead

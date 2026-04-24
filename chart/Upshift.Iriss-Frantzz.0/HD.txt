@@ -1,0 +1,10 @@
+#
+Name: Upshift
+Path: Upshift.Iriss-Frantzz.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.8
+Composer: Iriss-Frantzz
+Illustrator: Iriss=Frantzz=s-don
+Charter: CorruptedEntity & 野从

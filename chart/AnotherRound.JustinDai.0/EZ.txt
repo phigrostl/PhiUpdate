@@ -1,0 +1,10 @@
+#
+Name: Another Round
+Path: AnotherRound.JustinDai.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.2.5
+Composer: Justin Dai
+Illustrator: 艾是Abby
+Charter: 阿爽

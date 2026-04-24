@@ -1,0 +1,10 @@
+#
+Name: Temporal Shifting
+Path: TemporalShifting.LureRabbitVC.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: Lure Rabbit & V!C
+Illustrator: mology (青鸟&V17AMax Modified)
+Charter: Su1fuR

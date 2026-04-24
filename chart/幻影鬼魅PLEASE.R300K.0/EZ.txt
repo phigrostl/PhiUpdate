@@ -1,0 +1,10 @@
+#
+Name: 幻影鬼魅 (PLEASE)
+Path: 幻影鬼魅PLEASE.R300K.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: R300K
+Illustrator: RM Design Team (青鸟 modified)
+Charter: COC

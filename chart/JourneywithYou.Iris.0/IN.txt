@@ -1,0 +1,10 @@
+#
+Name: Journey with You
+Path: JourneywithYou.Iris.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.7
+Composer: Iris
+Illustrator: BTKCyber (青鸟 modified)
+Charter: Su1fuR -All about YOU & ME-

@@ -1,0 +1,10 @@
+#
+Name: 百鬼֎夜行
+Path: 百鬼夜行.SaladSavior.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Salad Savior
+Illustrator: 軽目くお (Ctymax modified)
+Charter: Magazet

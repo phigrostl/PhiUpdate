@@ -1,0 +1,10 @@
+#
+Name: Horizon Blue
+Path: HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.7
+Composer: Nothing But Requiem feat. Aikapin & Chiyoko
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: Nothing But Ner & Pcat

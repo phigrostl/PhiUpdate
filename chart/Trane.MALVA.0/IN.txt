@@ -1,0 +1,10 @@
+#
+Name: Träne
+Path: Trane.MALVA.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.2
+Composer: MALVA.
+Illustrator: しえろ
+Charter: Barbarianerman

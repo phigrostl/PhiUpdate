@@ -1,0 +1,10 @@
+#
+Name: With You
+Path: WithYou.Cashew.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.1
+Composer: Cashew
+Illustrator: ADZUKI
+Charter: with U

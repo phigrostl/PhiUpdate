@@ -1,0 +1,10 @@
+#
+Name: Avataar ~Reincarnation of Kalpa~
+Path: AvataarReincarnationofKalpa.ScarletteakaCrYmson.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.6
+Composer: Scarlette a.k.a CrYmson
+Illustrator: QueseraGames Co., Ltd.
+Charter: XMT & Salt

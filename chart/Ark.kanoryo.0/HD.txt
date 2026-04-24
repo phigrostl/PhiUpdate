@@ -1,0 +1,10 @@
+#
+Name: Ark
+Path: Ark.kanoryo.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.5
+Composer: kanoryo
+Illustrator: MOAI WORKS
+Charter: TimiTini

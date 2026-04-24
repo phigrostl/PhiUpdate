@@ -1,0 +1,10 @@
+#
+Name: Igallta
+Path: Igallta.SeURa.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.5
+Composer: Se-U-Ra
+Illustrator: Se-U-Ra
+Charter: 信仰の剣『生』

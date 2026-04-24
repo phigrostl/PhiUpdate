@@ -1,0 +1,10 @@
+#
+Name: 暗夜苏醒 (REANIMATE)
+Path: 暗夜苏醒REANIMATE.Warak.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Warak
+Illustrator: MHK (青鸟 modified)
+Charter: Deep Dark Ctymax

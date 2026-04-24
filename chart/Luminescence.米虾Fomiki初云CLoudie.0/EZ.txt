@@ -1,0 +1,10 @@
+#
+Name: Luminescence
+Path: Luminescence.米虾Fomiki初云CLoudie.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: 米虾Fomiki & 初云CLoudie
+Illustrator: 子狼
+Charter: XMT小咩兔

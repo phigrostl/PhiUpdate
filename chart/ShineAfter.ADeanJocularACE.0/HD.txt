@@ -1,0 +1,10 @@
+#
+Name: Shine After
+Path: ShineAfter.ADeanJocularACE.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.7
+Composer: ADean & JocularACE
+Illustrator: 海里狄七 feat. 存艺
+Charter: Su1fuR

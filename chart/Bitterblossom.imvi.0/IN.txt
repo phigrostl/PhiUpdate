@@ -1,0 +1,10 @@
+#
+Name: Bitterblossom
+Path: Bitterblossom.imvi.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.5
+Composer: imvi
+Illustrator: 鲸弑
+Charter: 百九十八

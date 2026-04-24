@@ -1,0 +1,10 @@
+#
+Name: You are the Miserable
+Path: YouaretheMiserable.tpazolite.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.15.8
+Composer: t+pazolite
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: Pat Brick Man Mr.C & Mr.B

@@ -1,0 +1,10 @@
+#
+Name: Shelter
+Path: Shelter.MeatyRabbitNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.8
+Composer: MeatyRabbit & NceS
+Illustrator: 诡异童话
+Charter: Cluttler with ShelteR

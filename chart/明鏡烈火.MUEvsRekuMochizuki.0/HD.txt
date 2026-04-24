@@ -1,0 +1,10 @@
+#
+Name: 明鏡烈火
+Path: 明鏡烈火.MUEvsRekuMochizuki.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.1
+Composer: M-UE vs. Reku Mochizuki
+Illustrator: 中本ひょうり
+Charter: COC  feat. Su1fuR

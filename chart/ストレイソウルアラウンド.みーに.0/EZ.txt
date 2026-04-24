@@ -1,0 +1,10 @@
+#
+Name: ストレイソウル・アラウンド
+Path: ストレイソウルアラウンド.みーに.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: みーに
+Illustrator: 伊恩 (青鸟 modified)
+Charter: JKy as "Stray Cat"

@@ -1,0 +1,10 @@
+#
+Name: Chronologika
+Path: Chronologika.Hundotte.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.9
+Composer: Hundotte
+Illustrator: 幽灵星
+Charter: Ctymax vs. Barbarianerman

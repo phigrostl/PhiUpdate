@@ -1,0 +1,10 @@
+#
+Name: Glaciaxion
+Path: Glaciaxion.SunsetRay.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.6.5
+Composer: SunsetRay
+Illustrator: 艾若拉
+Charter: 阿爽 fixed by Clutter

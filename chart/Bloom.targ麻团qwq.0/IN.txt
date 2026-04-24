@@ -1,0 +1,10 @@
+#
+Name: Bloom
+Path: Bloom.targ麻团qwq.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.9
+Composer: targ & 麻团qwq
+Illustrator: 注射
+Charter: SPΔDE & 倪尔qwq

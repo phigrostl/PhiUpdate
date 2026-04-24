@@ -1,0 +1,10 @@
+#
+Name: bye
+Path: bye.DingerBox.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: DingerBox
+Illustrator: 海产
+Charter: Likey

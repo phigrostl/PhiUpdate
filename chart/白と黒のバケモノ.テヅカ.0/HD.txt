@@ -1,0 +1,10 @@
+#
+Name: 白と黒のバケモノ
+Path: 白と黒のバケモノ.テヅカ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.4
+Composer: テヅカ
+Illustrator: 久世
+Charter: monochrome ILLUSION

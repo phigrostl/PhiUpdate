@@ -1,0 +1,10 @@
+#
+Name: Stasis
+Path: Stasis.Maozon.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.7
+Composer: Maozon
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: 百九十八

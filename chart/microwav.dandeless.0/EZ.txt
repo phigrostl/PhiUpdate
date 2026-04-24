@@ -1,0 +1,10 @@
+#
+Name: micro.wav
+Path: microwav.dandeless.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: dandeless
+Illustrator: snake.ribs
+Charter: 百九十八

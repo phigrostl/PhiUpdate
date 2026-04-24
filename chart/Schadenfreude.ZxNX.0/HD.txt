@@ -1,0 +1,10 @@
+#
+Name: Schadenfreude
+Path: Schadenfreude.ZxNX.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.6
+Composer: ZxNX
+Illustrator: 验光蒸鱼
+Charter: StuRmfeuer

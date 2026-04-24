@@ -1,0 +1,10 @@
+#
+Name: c.s.q.n.
+Path: csqn.Aoi.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.2
+Composer: Aoi
+Illustrator: Ctymax vs. TNiK feat. 出前
+Charter: h.o.m.e.e.e.

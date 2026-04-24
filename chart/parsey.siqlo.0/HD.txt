@@ -1,0 +1,10 @@
+#
+Name: ρars/ey
+Path: parsey.siqlo.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.7
+Composer: siqlo
+Illustrator: 出前 x nekomiya
+Charter: Rikko & TangScend

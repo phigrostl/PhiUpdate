@@ -1,0 +1,10 @@
+#
+Name: Freaky Undulations ~Noble Knights of Tune~
+Path: FreakyUndulationsNobleKnightsofTune.JehezukielKURORAK.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.9
+Composer: Jehezukiel + KURORAK
+Illustrator: PEZZ feat. 祈莲 & CattoHato
+Charter: ARE YOU JEITIE!!!

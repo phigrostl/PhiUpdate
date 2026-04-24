@@ -1,0 +1,10 @@
+#
+Name: Ramification
+Path: Ramification.rareguyReina.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.8
+Composer: rareguy & Reina
+Illustrator: cokeAnut
+Charter: Simon_Axis•騎士•StR-1

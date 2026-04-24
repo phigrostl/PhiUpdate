@@ -1,0 +1,10 @@
+#
+Name: 心之所向
+Path: 心之所向.姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.8
+Composer: 姜米條
+Illustrator: 笔记RE
+Charter: 倪之所爽

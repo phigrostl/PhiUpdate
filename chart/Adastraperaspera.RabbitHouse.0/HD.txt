@@ -1,0 +1,10 @@
+#
+Name: Ad astra per aspera
+Path: Adastraperaspera.RabbitHouse.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.1
+Composer: Rabbit House
+Illustrator: Lyrebird Ferdinant (青鸟&V17AMax Modified)
+Charter: XMT小咩兔

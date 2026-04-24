@@ -1,0 +1,10 @@
+#
+Name: Der Richter
+Path: DerRichter.Ωμεγα.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.4
+Composer: Ωμεγα
+Illustrator: 森灵
+Charter: Max(C,t,y)

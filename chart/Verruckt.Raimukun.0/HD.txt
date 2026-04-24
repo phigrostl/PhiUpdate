@@ -1,0 +1,10 @@
+#
+Name: Verrückt
+Path: Verruckt.Raimukun.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.6
+Composer: Raimukun
+Illustrator: AiLANE
+Charter: Magazet

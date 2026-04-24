@@ -1,0 +1,10 @@
+#
+Name: 零號車輛
+Path: 零號車輛.seatrus.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.5
+Composer: seatrus
+Illustrator: 2AI4wU4
+Charter: 零號宇夜

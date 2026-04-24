@@ -1,0 +1,10 @@
+#
+Name: Parallel Retrogression(Game Ver.)
+Path: ParallelRetrogressionGameVer.Tetrajectory.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.9
+Composer: Tetrajectory
+Illustrator: 青鸟
+Charter: HaraKuma

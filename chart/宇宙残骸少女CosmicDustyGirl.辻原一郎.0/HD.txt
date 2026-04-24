@@ -1,0 +1,10 @@
+#
+Name: 宇宙残骸少女 (Cosmic Dusty Girl)
+Path: 宇宙残骸少女CosmicDustyGirl.辻原一郎.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.2
+Composer: 辻原一郎
+Illustrator: TOTOTO 
+Charter: 不喜欢线的COC

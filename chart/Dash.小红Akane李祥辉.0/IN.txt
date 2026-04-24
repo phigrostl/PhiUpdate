@@ -1,0 +1,10 @@
+#
+Name: Dash
+Path: Dash.小红Akane李祥辉.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.9.7
+Composer: 小红Akane，李祥晖
+Illustrator: 艾是Abby
+Charter: JKy

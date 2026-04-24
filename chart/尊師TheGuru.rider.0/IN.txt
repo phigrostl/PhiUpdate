@@ -1,0 +1,10 @@
+#
+Name: 尊師 ～The Guru～
+Path: 尊師TheGuru.rider.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.4
+Composer: rider
+Illustrator: 1B
+Charter: 奥術 ~The Empery~

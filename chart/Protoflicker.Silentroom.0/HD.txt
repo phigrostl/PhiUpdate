@@ -1,0 +1,10 @@
+#
+Name: Protoflicker
+Path: Protoflicker.Silentroom.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.7
+Composer: Silentroom
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: RTH

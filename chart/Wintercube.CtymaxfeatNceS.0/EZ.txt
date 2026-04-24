@@ -1,0 +1,10 @@
+#
+Name: Winter ↑cube↓
+Path: Wintercube.CtymaxfeatNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.5
+Composer: Ctymax feat. NceS
+Illustrator: 翠冷兮
+Charter: Ctymax after 7 years

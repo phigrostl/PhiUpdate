@@ -1,0 +1,10 @@
+#
+Name: a truth seeker -Communication with Utopia will be lost-
+Path: atruthseekerCommunicationwithUtopiawillbelost.kuro.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: kuro
+Illustrator: rokopon
+Charter: -Seek A Lnside Truth-

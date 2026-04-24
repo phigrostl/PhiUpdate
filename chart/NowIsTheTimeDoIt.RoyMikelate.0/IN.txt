@@ -1,0 +1,10 @@
+#
+Name: Now Is The Time, Do It
+Path: NowIsTheTimeDoIt.RoyMikelate.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.3
+Composer: Roy Mikelate
+Illustrator: 青鸟
+Charter: Pat Brick Man Mr.N feat. Ner of Time

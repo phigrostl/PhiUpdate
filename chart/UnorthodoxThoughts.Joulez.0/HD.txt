@@ -1,0 +1,10 @@
+#
+Name: Unorthodox Thoughts
+Path: UnorthodoxThoughts.Joulez.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.0
+Composer: Joulez
+Illustrator: ASXX
+Charter: HaraKuma

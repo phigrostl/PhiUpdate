@@ -1,0 +1,10 @@
+#
+Name: Another Round
+Path: AnotherRound.JustinDai.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.3
+Composer: Justin Dai
+Illustrator: 艾是Abby
+Charter: TimiTini →"X"← 阿爽

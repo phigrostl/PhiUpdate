@@ -1,0 +1,10 @@
+#
+Name: 重生
+Path: 重生.姜米條.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: 姜米條
+Illustrator: 昔璃&TNiK
+Charter: Barbarianerman

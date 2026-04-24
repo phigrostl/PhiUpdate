@@ -1,0 +1,10 @@
+#
+Name: Aphrodite's Child (short ver.)
+Path: AphroditesChildshortver.RUQOA.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.3
+Composer: RUQOA
+Illustrator: cala for Immaculée Sekai
+Charter: StrayCat

@@ -1,0 +1,10 @@
+#
+Name: 大和撫子 -Wild Dances-
+Path: 大和撫子WildDances.adapatorvsDRIVE.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.8
+Composer: adaptor vs DRIVE.
+Illustrator: りゅうら
+Charter: Eaimo fixed by NerSAN

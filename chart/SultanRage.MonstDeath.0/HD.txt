@@ -1,0 +1,10 @@
+#
+Name: Sultan Rage
+Path: SultanRage.MonstDeath.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.0
+Composer: MonstDeath
+Illustrator: 笔记RE
+Charter: 百九十八

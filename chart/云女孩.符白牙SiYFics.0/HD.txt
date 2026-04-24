@@ -1,0 +1,10 @@
+#
+Name: 云女孩
+Path: 云女孩.符白牙SiYFics.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.9
+Composer: 符白牙/SiYFics
+Illustrator: 御坂果子
+Charter: Cloud Catcats

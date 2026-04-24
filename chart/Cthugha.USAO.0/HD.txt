@@ -1,0 +1,10 @@
+#
+Name: Cthugha
+Path: Cthugha.USAO.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.4
+Composer: USAO
+Illustrator: 谷地（青鸟 modified）
+Charter: Barbarianerman

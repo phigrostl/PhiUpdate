@@ -1,0 +1,10 @@
+#
+Name: A journey to the moonlight
+Path: Ajourneytothemoonlight.Yesod.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.7
+Composer: Yesod
+Illustrator: 汉堡
+Charter: Rikko from「PHIGROS MOON」

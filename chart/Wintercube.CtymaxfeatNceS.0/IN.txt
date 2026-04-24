@@ -1,0 +1,10 @@
+#
+Name: Winter ↑cube↓
+Path: Wintercube.CtymaxfeatNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.3
+Composer: Ctymax feat. NceS
+Illustrator: 翠冷兮
+Charter: 百九十八

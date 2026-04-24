@@ -1,0 +1,10 @@
+#
+Name: ニライカナイ (NiraicA_nai Mix)
+Path: ニライカナイNiraicA_naiMix.roopfromSTR.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: roop from STR
+Illustrator: 3z
+Charter: Barbarianerman

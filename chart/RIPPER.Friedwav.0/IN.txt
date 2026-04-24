@@ -1,0 +1,10 @@
+#
+Name: RIPPER
+Path: RIPPER.Friedwav.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.4
+Composer: Friedwav
+Illustrator: 何呵
+Charter: 撕裂者『Alloces vs. Shin』

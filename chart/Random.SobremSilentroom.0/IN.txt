@@ -1,0 +1,10 @@
+#
+Name: Random
+Path: Random.SobremSilentroom.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.7
+Composer: Sobrem × Silentroom
+Illustrator: Harkiadel
+Charter: _鉄

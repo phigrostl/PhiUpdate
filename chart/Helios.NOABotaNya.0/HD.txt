@@ -1,0 +1,10 @@
+#
+Name: Helios
+Path: Helios.NOABotaNya.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.0
+Composer: NOA(Cortrix) & BotaNya
+Illustrator: Spectro
+Charter: jeitie touches grass

@@ -1,0 +1,10 @@
+#
+Name: El último baile
+Path: Elúltimobaile.Θ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.1
+Composer: Θ
+Illustrator: mology (青鸟&V17AMax Modified)
+Charter: 百九十八 feat. Likey

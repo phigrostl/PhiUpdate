@@ -1,0 +1,10 @@
+#
+Name: Incyde
+Path: Incyde.YbeLL.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.2
+Composer: YbeLL
+Illustrator: ©2026 Rayark Inc. CYTUS II®
+Charter: Magazet wanders within StR-1

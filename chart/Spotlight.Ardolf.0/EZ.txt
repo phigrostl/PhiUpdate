@@ -1,0 +1,10 @@
+#
+Name: Spotlight
+Path: Spotlight.Ardolf.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Ardolf
+Illustrator: NerSAN
+Charter: Debut under spotlights!< Simon_Axis

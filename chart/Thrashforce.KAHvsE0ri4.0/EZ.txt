@@ -1,0 +1,10 @@
+#
+Name: Thrash force
+Path: Thrashforce.KAHvsE0ri4.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: KAH vs. E0ri4
+Illustrator: 自動車 原付 vs. GAMEBAKA
+Charter: thrAsh forSe

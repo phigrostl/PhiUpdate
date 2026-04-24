@@ -1,0 +1,10 @@
+#
+Name: Aleph-0
+Path: Aleph0.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.2
+Composer: LeaF
+Illustrator: Optie
+Charter: Clutter

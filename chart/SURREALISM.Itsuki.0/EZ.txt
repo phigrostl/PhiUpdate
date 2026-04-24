@@ -1,0 +1,10 @@
+#
+Name: -SURREALISM-
+Path: SURREALISM.Itsuki.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Itsuki
+Illustrator: 喵n葵
+Charter: Su1fuR

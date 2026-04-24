@@ -1,0 +1,10 @@
+#
+Name: Chronostasis
+Path: Chronostasis.黒皇帝.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.0
+Composer: 黒皇帝
+Illustrator: Sand
+Charter: Gausbon fixed by XMT

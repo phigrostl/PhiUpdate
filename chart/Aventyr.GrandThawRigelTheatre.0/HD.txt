@@ -1,0 +1,10 @@
+#
+Name: Äventyr
+Path: Aventyr.GrandThawRigelTheatre.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.9
+Composer: Grand Thaw / Rigël Theatre
+Illustrator: Grand Thaw / Rigël Theatre
+Charter: Snorkel

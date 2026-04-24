@@ -1,0 +1,10 @@
+#
+Name: GOODTEK
+Path: GOODTEK.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: EBIMAYO
+Illustrator: Ctymax feat. EBIMAYO
+Charter: 百九十八

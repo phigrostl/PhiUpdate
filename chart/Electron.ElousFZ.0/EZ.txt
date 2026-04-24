@@ -1,0 +1,10 @@
+#
+Name: Electron
+Path: Electron.ElousFZ.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.5
+Composer: ElousΛ.-FZ
+Illustrator: DoublePian
+Charter: 百九十八

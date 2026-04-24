@@ -1,0 +1,10 @@
+#
+Name: Cristalisia
+Path: Cristalisia.onoken.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.4
+Composer: onoken
+Illustrator: ©2025 Rayark Inc. CYTUS II®
+Charter: Salt

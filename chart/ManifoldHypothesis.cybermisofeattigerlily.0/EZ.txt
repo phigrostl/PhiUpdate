@@ -1,0 +1,10 @@
+#
+Name: Manifold Hypothesis
+Path: ManifoldHypothesis.cybermisofeattigerlily.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: cybermiso feat. tigerlily
+Illustrator: 阿清 (青鸟 modified)
+Charter: Likey

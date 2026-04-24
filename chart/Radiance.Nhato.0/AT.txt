@@ -1,0 +1,10 @@
+#
+Name: Radiance
+Path: Radiance.Nhato.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.15.6
+Composer: Nhato
+Illustrator: SEGA (V17AMax modified)
+Charter: Яadiance

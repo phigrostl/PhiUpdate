@@ -1,0 +1,10 @@
+#
+Name: Ποσειδών
+Path: Poseidon.1112vsStar.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: 1112 vs. Star＊
+Illustrator: 老张
+Charter: Jαckψ a.k.a JKy

@@ -1,0 +1,10 @@
+#
+Name: Non-Melodic Ragez (MUG Edit)
+Path: NonMelodicRagezMUGEdit.Normal1zer.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: Normal1zer
+Illustrator: cycats
+Charter: Clutter

@@ -1,0 +1,10 @@
+#
+Name: Drop It
+Path: DropIt.Asuka.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.2
+Composer: Asuka
+Illustrator: TNiK
+Charter: Drop Catcats

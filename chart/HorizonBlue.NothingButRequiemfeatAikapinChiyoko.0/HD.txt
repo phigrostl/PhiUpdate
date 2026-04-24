@@ -1,0 +1,10 @@
+#
+Name: Horizon Blue
+Path: HorizonBlue.NothingButRequiemfeatAikapinChiyoko.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.6
+Composer: Nothing But Requiem feat. Aikapin & Chiyoko
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: Nothing But Likey

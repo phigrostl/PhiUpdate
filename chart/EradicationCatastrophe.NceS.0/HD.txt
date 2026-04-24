@@ -1,0 +1,10 @@
+#
+Name: Eradication Catastrophe
+Path: EradicationCatastrophe.NceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.7.5
+Composer: NceS
+Illustrator: 海产
+Charter: Barbarianerman fixed by Clutter

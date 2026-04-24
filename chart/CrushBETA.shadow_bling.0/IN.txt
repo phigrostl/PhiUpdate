@@ -1,0 +1,10 @@
+#
+Name: Crush BETA
+Path: CrushBETA.shadow_bling.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.1
+Composer: shadow_bling
+Illustrator: 笔记RE
+Charter: Timi今天吃神马

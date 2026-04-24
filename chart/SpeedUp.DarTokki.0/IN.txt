@@ -1,0 +1,10 @@
+#
+Name: Speed Up!
+Path: SpeedUp.DarTokki.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.0
+Composer: DarTokki
+Illustrator: TNiK
+Charter: Ctymax vs. 百九十八

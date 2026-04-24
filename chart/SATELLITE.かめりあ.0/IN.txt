@@ -1,0 +1,10 @@
+#
+Name: S.A.T.E.L.L.I.T.E.
+Path: SATELLITE.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.3
+Composer: かめりあ
+Illustrator: 青鸟
+Charter: L.I.K.E.Y.

@@ -1,0 +1,10 @@
+#
+Name: Secret Illumination
+Path: SecretIllumination.Yooh.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.2
+Composer: Yooh
+Illustrator: Juice Black (青鸟 modified)
+Charter: 迟戈 vs. Likey

@@ -1,0 +1,10 @@
+#
+Name: Get Ready!! 
+Path: GetReady.iF.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.7
+Composer: iF
+Illustrator: あおお/A-ZERO, morph
+Charter: StupiGGy

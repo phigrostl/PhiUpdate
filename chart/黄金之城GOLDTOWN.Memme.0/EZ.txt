@@ -1,0 +1,10 @@
+#
+Name: 黄金之城 (GOLD TOWN)
+Path: 黄金之城GOLDTOWN.Memme.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.2.0
+Composer: MEMME
+Illustrator: RM Design Team (青鸟 modified)
+Charter: Passport:Visitor

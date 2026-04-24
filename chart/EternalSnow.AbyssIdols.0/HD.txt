@@ -1,0 +1,10 @@
+#
+Name: Eternal Snow
+Path: EternalSnow.AbyssIdols.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.6
+Composer: Abyss Idols
+Illustrator: Sak
+Charter: M3d1uM

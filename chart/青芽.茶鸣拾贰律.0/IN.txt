@@ -1,0 +1,10 @@
+#
+Name: 青芽
+Path: 青芽.茶鸣拾贰律.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: 茶鸣拾贰律
+Illustrator: 茶鸣拾贰律
+Charter: Hook vs. _鉄

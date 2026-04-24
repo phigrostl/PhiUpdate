@@ -1,0 +1,10 @@
+#
+Name: Rrhar'il
+Path: Rrharil.TeamGrimoire.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.7
+Composer: Team Grimoire
+Illustrator: 犀牛坨动画工坊
+Charter: RDRT -p 20:02:21

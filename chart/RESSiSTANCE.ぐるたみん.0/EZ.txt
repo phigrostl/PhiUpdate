@@ -1,0 +1,10 @@
+#
+Name: RESSiSTANCE
+Path: RESSiSTANCE.ぐるたみん.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.5
+Composer: ぐるたみん
+Illustrator: LINUS
+Charter: 其一 呼吸尚存的标志

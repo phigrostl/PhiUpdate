@@ -1,0 +1,10 @@
+#
+Name: Orthodox
+Path: Orthodox.tokiwa.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.5
+Composer: tokiwa
+Illustrator: cycats
+Charter: StR-1

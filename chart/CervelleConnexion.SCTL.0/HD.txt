@@ -1,0 +1,10 @@
+#
+Name: Cervelle Connexion
+Path: CervelleConnexion.SCTL.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.3
+Composer: SCTL
+Illustrator: SCTL
+Charter: Eastern Ailuropoda Gang

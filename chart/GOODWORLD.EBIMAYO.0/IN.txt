@@ -1,0 +1,10 @@
+#
+Name: GOODWORLD
+Path: GOODWORLD.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.9
+Composer: EBIMAYO
+Illustrator: EBIMAYO
+Charter: StupiGGy vs. 阿爽

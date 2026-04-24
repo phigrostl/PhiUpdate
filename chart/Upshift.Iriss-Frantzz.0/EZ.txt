@@ -1,0 +1,10 @@
+#
+Name: Upshift
+Path: Upshift.Iriss-Frantzz.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: Iriss-Frantzz
+Illustrator: Iriss=Frantzz=s-don
+Charter: Lumiere

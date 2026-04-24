@@ -1,0 +1,10 @@
+#
+Name: Cuvism³
+Path: Cuvism.Fl00tvsHalv.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.2
+Composer: Fl00t vs Halv
+Illustrator: sikkari
+Charter: Rikko³ [Normal]

@@ -1,0 +1,10 @@
+#
+Name: Bonus Time
+Path: BonusTime.MegaloPaleWhite.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.8
+Composer: Megalo_PaleWhite
+Illustrator: 笔记RE
+Charter: Uvernight fixed by 百九十八

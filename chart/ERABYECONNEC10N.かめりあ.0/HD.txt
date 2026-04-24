@@ -1,0 +1,10 @@
+#
+Name: +ERABY+E CONNEC+10N
+Path: ERABYECONNEC10N.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.6
+Composer: かめりあ
+Illustrator: 猫箱Catbox feat. 祈莲
+Charter: 4D45474142592B45

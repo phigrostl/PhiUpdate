@@ -1,0 +1,10 @@
+#
+Name: 盏茗
+Path: 盏茗.茶鸣拾贰律.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.4
+Composer: 茶鸣拾贰律
+Illustrator: 茶鸣拾贰律
+Charter: NerSAN sipping XMTea

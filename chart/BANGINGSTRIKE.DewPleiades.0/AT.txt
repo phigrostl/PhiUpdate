@@ -1,0 +1,10 @@
+#
+Name: BANGING STRIKE
+Path: BANGINGSTRIKE.DewPleiades.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.8
+Composer: Dew Pleiades
+Illustrator: Rutumn feat. 汉堡
+Charter: 魔王、大咩兔の兄 『大咩免』!!

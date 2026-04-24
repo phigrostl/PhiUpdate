@@ -1,0 +1,10 @@
+#
+Name: GOODWORLD
+Path: GOODWORLD.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.4
+Composer: EBIMAYO
+Illustrator: EBIMAYO
+Charter: StupiGGy

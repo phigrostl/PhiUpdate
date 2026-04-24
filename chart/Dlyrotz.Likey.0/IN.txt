@@ -1,0 +1,10 @@
+#
+Name: Dlyrotz
+Path: Dlyrotz.Likey.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.7
+Composer: Likey
+Illustrator: DoublePian
+Charter: XMT小咩兔 vs. Barbarianerman

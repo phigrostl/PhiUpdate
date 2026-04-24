@@ -1,0 +1,10 @@
+#
+Name: RESSiSTANCE
+Path: RESSiSTANCE.ぐるたみん.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.2
+Composer: ぐるたみん
+Illustrator: LINUS
+Charter: 其二 向前迈进的理由

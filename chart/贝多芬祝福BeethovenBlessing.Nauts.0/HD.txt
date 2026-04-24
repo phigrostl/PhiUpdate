@@ -1,0 +1,10 @@
+#
+Name: 贝多芬祝福 (Beethoven Blessing)
+Path: 贝多芬祝福BeethovenBlessing.Nauts.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.3
+Composer: Nauts
+Illustrator: RM Design Team (青鸟 modified)
+Charter: Blessing beyond myself.

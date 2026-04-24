@@ -1,0 +1,10 @@
+#
+Name: Non-Melodic Ragez (MUG Edit)
+Path: NonMelodicRagezMUGEdit.Normal1zer.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.1
+Composer: Normal1zer
+Illustrator: cycats
+Charter: 分化者 fixed by Barbarianerman

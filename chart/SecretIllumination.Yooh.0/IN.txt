@@ -1,0 +1,10 @@
+#
+Name: Secret Illumination
+Path: SecretIllumination.Yooh.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.7
+Composer: Yooh
+Illustrator: Juice Black (青鸟 modified)
+Charter: NerSAN

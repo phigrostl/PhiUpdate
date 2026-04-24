@@ -1,0 +1,10 @@
+#
+Name: 雪降り、メリクリ
+Path: 雪降りメリクリ.A39.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.8
+Composer: A-39
+Illustrator: 犀牛坨动画工坊
+Charter: Merry ChristymAxS

@@ -1,0 +1,10 @@
+#
+Name: G.V.N. (Glitter,Vomitus and Neon)
+Path: GVNGlitterVomitusandNeon.SaltySaltUnfold33.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.7
+Composer: Salty Salt & Unfold33
+Illustrator: 祈莲
+Charter: B.B.M.

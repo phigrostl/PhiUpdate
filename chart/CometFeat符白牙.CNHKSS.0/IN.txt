@@ -1,0 +1,10 @@
+#
+Name: Comet
+Path: CometFeat符白牙.CNHKSS.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.7
+Composer: CNHKSS feat. 符白牙
+Illustrator: 小黄鸡叽叽叽叽叽叽修复中
+Charter: Likey & Barbarianerman

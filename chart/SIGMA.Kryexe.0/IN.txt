@@ -1,0 +1,10 @@
+#
+Name: SIGMA
+Path: SIGMA.Kryexe.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: Kry.exe
+Illustrator: 塔塔
+Charter: Bσrbσriσn∑rmσn.∑x∑

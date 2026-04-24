@@ -1,0 +1,10 @@
+#
+Name: opia
+Path: opia.rN.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.6
+Composer: rN
+Illustrator: rN @ 湯元画伯
+Charter: Jeitie & CorruptedEntity 『Hollow』

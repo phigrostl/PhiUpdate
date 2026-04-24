@@ -1,0 +1,10 @@
+#
+Name: Dead Soul
+Path: DeadSoul.SoundSouler.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: Sound Souler
+Illustrator: Photonskyto
+Charter: Phigros Charting Team

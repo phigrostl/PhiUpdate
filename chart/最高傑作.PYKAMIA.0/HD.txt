@@ -1,0 +1,10 @@
+#
+Name: 最高傑作
+Path: 最高傑作.PYKAMIA.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.3
+Composer: PYKAMIA
+Illustrator: Nai Guozi
+Charter: StR-1

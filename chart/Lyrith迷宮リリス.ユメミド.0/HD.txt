@@ -1,0 +1,10 @@
+#
+Name: Lyrith -迷宮リリス-
+Path: Lyrith迷宮リリス.ユメミド.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.1
+Composer: ユメミド
+Illustrator: 何呵
+Charter: Arenn Saki as "myStery"

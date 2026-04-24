@@ -1,0 +1,10 @@
+#
+Name: インフェルノシティ
+Path: インフェルノシティ.Ponchifeatはぁち.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.7
+Composer: Ponchi♪ feat. はぁち
+Illustrator: LESYEF & 藍瀬 まなみ
+Charter: Alloces

@@ -1,0 +1,10 @@
+#
+Name: 今天不是明天
+Path: 今天不是明天.PIKASONICfeat兰音Reine.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.3
+Composer: PIKASONIC feat. 兰音Reine
+Illustrator: KiTA & 一击即溃
+Charter: 扫佛不是嫂夫

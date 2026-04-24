@@ -1,0 +1,10 @@
+#
+Name: After Dawn
+Path: AfterDawn.S9ryne.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: S9ryne
+Illustrator: 月亮酱
+Charter: BarbariaNerSAN feat. Snorkel

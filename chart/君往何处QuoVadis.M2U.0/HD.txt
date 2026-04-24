@@ -1,0 +1,10 @@
+#
+Name: 君往何处 (Quo Vadis)
+Path: 君往何处QuoVadis.M2U.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.6
+Composer: M2U
+Illustrator: LRAY (青鸟 modified)
+Charter: Where are Ctymax and 阿爽?

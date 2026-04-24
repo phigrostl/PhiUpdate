@@ -1,0 +1,10 @@
+#
+Name: アンビバレンス
+Path: アンビバレンス.すりぃ相沢.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.7
+Composer: すりぃ×相沢
+Illustrator: SEGA (祈莲 modified)
+Charter: XMT小咩兔

@@ -1,0 +1,10 @@
+#
+Name: Cereris
+Path: Cereris.SunsetRayNceS.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.9
+Composer: SunsetRay/NceS
+Illustrator: IvyTowers
+Charter: Su1fuR

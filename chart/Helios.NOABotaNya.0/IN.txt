@@ -1,0 +1,10 @@
+#
+Name: Helios
+Path: Helios.NOABotaNya.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.2
+Composer: NOA(Cortrix) & BotaNya
+Illustrator: Spectro
+Charter: jeitie gets sent to the sun

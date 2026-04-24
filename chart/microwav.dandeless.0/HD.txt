@@ -1,0 +1,10 @@
+#
+Name: micro.wav
+Path: microwav.dandeless.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.5
+Composer: dandeless
+Illustrator: snake.ribs
+Charter: 百九十八

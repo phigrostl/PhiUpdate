@@ -1,0 +1,10 @@
+#
+Name: End Me
+Path: EndMe.ZxNXasDelaina.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: ZxNX as "Delaina"
+Illustrator: 何呵
+Charter: 鲲

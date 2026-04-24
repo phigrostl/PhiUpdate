@@ -1,0 +1,10 @@
+#
+Name: TECHNOPOLIS 2085
+Path: TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.2
+Composer: PRASTIK DANCEFLOOR
+Illustrator: SEGA (V17AMax modified)
+Charter: 迟戈 vs. Likey

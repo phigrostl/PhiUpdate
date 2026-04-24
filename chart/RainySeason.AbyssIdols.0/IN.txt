@@ -1,0 +1,10 @@
+#
+Name: Rainy Season
+Path: RainySeason.AbyssIdols.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.2
+Composer: Abyss Idols
+Illustrator: Robin
+Charter: Raiky Season

@@ -1,0 +1,10 @@
+#
+Name: El Condor Pasa (Phigros Edit)
+Path: ElCondorPasaPhigrosEdit.PlasticFruits.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.5
+Composer: Plastic Fruits
+Illustrator: 青鸟
+Charter: TimiTini

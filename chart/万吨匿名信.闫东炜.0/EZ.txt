@@ -1,0 +1,10 @@
+#
+Name: 万吨匿名信
+Path: 万吨匿名信.闫东炜.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.5
+Composer: 闫东炜
+Illustrator: IvyTowers
+Charter: 猫の信 & 百九十八

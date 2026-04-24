@@ -1,0 +1,10 @@
+#
+Name: Verrückt
+Path: Verruckt.Raimukun.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.5
+Composer: Raimukun
+Illustrator: AiLANE
+Charter: Salt

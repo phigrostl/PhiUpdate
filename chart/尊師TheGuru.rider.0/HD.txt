@@ -1,0 +1,10 @@
+#
+Name: 尊師 ～The Guru～
+Path: 尊師TheGuru.rider.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.6
+Composer: rider
+Illustrator: 1B
+Charter: M3d1uM

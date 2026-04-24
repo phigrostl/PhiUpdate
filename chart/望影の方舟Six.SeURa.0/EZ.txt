@@ -1,0 +1,10 @@
+#
+Name: 望影の方舟Six
+Path: 望影の方舟Six.SeURa.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.5
+Composer: Se-U-Ra
+Illustrator: 鲸弑
+Charter: 六回目Traveler Scend

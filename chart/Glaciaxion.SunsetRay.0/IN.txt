@@ -1,0 +1,10 @@
+#
+Name: Glaciaxion
+Path: Glaciaxion.SunsetRay.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.12.6
+Composer: SunsetRay
+Illustrator: 艾若拉
+Charter: Barbarianerman vs. NerSAN

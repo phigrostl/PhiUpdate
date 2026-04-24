@@ -1,0 +1,10 @@
+#
+Name: Nhelv
+Path: Nhelv.Silentroom.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.1.5
+Composer: Silentroom
+Illustrator: 駿
+Charter: 野从

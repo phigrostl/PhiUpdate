@@ -1,0 +1,10 @@
+#
+Name: 开心病
+Path: 开心病.闫东炜.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.8
+Composer: 闫东炜
+Illustrator: 昔璃
+Charter: Barbarianerman feat. 晨

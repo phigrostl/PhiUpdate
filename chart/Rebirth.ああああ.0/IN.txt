@@ -1,0 +1,10 @@
+#
+Name: Re：birth
+Path: Rebirth.ああああ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.4
+Composer: ああああ
+Illustrator: QueseraGames Co., Ltd.
+Charter: Gausbon & StupiGGy

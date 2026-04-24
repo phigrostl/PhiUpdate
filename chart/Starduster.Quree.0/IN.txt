@@ -1,0 +1,10 @@
+#
+Name: Starduster
+Path: Starduster.Quree.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: Quree
+Illustrator: IvyTowers
+Charter: NerSAN

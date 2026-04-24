@@ -1,0 +1,10 @@
+#
+Name: Stasis
+Path: Stasis.Maozon.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Maozon
+Illustrator: Lanota © Noxy Games Inc. 
+Charter: 空の希

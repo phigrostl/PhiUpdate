@@ -1,0 +1,10 @@
+#
+Name: Sparkle New Life
+Path: SparkleNewLife.rider.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.2
+Composer: rider
+Illustrator: 1B
+Charter: Sparkle Ctymax

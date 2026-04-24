@@ -1,0 +1,10 @@
+#
+Name: Demiurge
+Path: Demiurge.Rabpit.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.11.8
+Composer: Rabpit
+Illustrator: 青鸟
+Charter: "Demiurge" ~ Dawn

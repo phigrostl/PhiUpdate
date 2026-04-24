@@ -1,0 +1,10 @@
+#
+Name: PANIC PARADISE
+Path: PANICPARADISE.DJSHIONY.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.4
+Composer: DJ SHION.Y
+Illustrator: 百九十八
+Charter: Su1fuR -FAISEURS DE PANIQUE-

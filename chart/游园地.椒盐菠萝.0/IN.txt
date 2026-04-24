@@ -1,0 +1,10 @@
+#
+Name: 游园地
+Path: 游园地.椒盐菠萝.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.2
+Composer: 椒盐菠萝
+Illustrator: CEM
+Charter: 椒盐倪尔

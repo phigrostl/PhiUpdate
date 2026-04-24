@@ -1,0 +1,10 @@
+#
+Name: Cthugha
+Path: Cthugha.USAO.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.1
+Composer: USAO
+Illustrator: 谷地（青鸟 modified）
+Charter: 百九十八 feat. NerSAN

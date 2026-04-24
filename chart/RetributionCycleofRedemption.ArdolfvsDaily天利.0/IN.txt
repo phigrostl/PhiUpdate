@@ -1,0 +1,10 @@
+#
+Name: Retribution ~ Cycle of Redemption ~ 
+Path: RetributionCycleofRedemption.ArdolfvsDaily天利.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.2
+Composer: Ardolf vs. Daily天利
+Illustrator: 死と花の大祭司(ʌᴉoƨმᴉϝ);;
+Charter: Simon_Axis vs. Likey [Respect Ner as "SP∆DE"]

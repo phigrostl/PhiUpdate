@@ -1,0 +1,10 @@
+#
+Name: Flutter Echo
+Path: FlutterEcho.Cansol.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.9
+Composer: Cansol
+Illustrator: Taurell
+Charter: Clutter Echo

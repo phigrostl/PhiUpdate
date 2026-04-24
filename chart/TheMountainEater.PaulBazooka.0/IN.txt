@@ -1,0 +1,10 @@
+#
+Name: The Mountain Eater
+Path: TheMountainEater.PaulBazooka.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.8
+Composer: Paul Bazooka
+Illustrator: START SEED
+Charter: 百九十八

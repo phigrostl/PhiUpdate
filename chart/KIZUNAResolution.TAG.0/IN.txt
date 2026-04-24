@@ -1,0 +1,10 @@
+#
+Name: KIZUNA Resolution
+Path: KIZUNAResolution.TAG.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.4
+Composer: TAG
+Illustrator: Transendium
+Charter: Sempiternal Fxxxxxx Resolution!

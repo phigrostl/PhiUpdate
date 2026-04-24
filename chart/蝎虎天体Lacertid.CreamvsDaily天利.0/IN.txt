@@ -1,0 +1,10 @@
+#
+Name: 蝎虎天体 -Lacertid-
+Path: 蝎虎天体Lacertid.CreamvsDaily天利.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.5
+Composer: Cream vs. Daily天利
+Illustrator: 白 & 小鹏xpeng
+Charter: Ctymax vs. IUIsauce -村头烤鱼蘸凹酱-

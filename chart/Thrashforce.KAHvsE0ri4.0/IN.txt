@@ -1,0 +1,10 @@
+#
+Name: Thrash force
+Path: Thrashforce.KAHvsE0ri4.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: KAH vs. E0ri4
+Illustrator: 自動車 原付 vs. GAMEBAKA
+Charter: Uvernight & Su1fuR

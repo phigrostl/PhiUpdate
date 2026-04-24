@@ -1,0 +1,10 @@
+#
+Name: 瓷岁
+Path: 瓷岁.茶鸣拾贰律.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.7.0
+Composer: 茶鸣拾贰律
+Illustrator: 茶鸣拾贰律
+Charter: 『兔』年大吉

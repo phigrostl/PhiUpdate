@@ -1,0 +1,10 @@
+#
+Name: 风屿
+Path: 风屿.闫东炜.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.8
+Composer: 闫东炜
+Illustrator: cycats
+Charter: Arenn Saki vs. Catcats vs. 百九十八

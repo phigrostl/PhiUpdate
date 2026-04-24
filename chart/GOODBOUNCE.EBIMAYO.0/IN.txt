@@ -1,0 +1,10 @@
+#
+Name: GOODBOUNCE
+Path: GOODBOUNCE.EBIMAYO.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.5
+Composer: EBIMAYO
+Illustrator: EBIMAYO
+Charter: Ctymax vs. Gausbounce

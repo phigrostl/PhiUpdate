@@ -1,0 +1,10 @@
+#
+Name: Palescreen
+Path: Palescreen.WyvernPfeatMadol.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.5
+Composer: WyvernP feat. Madol
+Illustrator: GAMEBAKA
+Charter: Jeitie

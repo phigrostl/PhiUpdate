@@ -1,0 +1,10 @@
+#
+Name: WATER
+Path: WATER.A39沙包P.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.6
+Composer: A-39/沙包P
+Illustrator: knife美工刀
+Charter: 乱流に巻き込まれ

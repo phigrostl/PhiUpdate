@@ -1,0 +1,10 @@
+#
+Name: Diamond Dust
+Path: DiamondDust.MasahiroGodspeedAoki.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Masahiro “Godspeed” Aoki
+Illustrator: SEGA (V17AMax modified)
+Charter: Salt

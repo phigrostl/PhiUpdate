@@ -1,0 +1,10 @@
+#
+Name: Hardcore Kwaya
+Path: HardcoreKwaya.EnFr.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.6
+Composer: EnFr
+Illustrator: EnFr
+Charter: Two skunks (Ctymax and 晨) in Africa shouting WAHHHHHH!

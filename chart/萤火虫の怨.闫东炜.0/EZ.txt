@@ -1,0 +1,10 @@
+#
+Name: 萤火虫の怨
+Path: 萤火虫の怨.闫东炜.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.4.0
+Composer: 闫东炜
+Illustrator: L-sp4
+Charter: 阿爽 & 百九十八

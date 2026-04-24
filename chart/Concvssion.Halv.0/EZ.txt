@@ -1,0 +1,10 @@
+#
+Name: Concvssion
+Path: Concvssion.Halv.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: Halv
+Illustrator: 汉堡
+Charter: J.R

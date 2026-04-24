@@ -1,0 +1,10 @@
+#
+Name: Better Graphic Animation
+Path: BetterGraphicAnimation.ルゼ.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: ルゼ
+Illustrator: A-Zero Project
+Charter: 縱連打の信者☆無極

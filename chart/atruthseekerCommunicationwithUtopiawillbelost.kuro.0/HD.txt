@@ -1,0 +1,10 @@
+#
+Name: a truth seeker -Communication with Utopia will be lost-
+Path: atruthseekerCommunicationwithUtopiawillbelost.kuro.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.4
+Composer: kuro
+Illustrator: rokopon
+Charter: 上班睡大觉_Sleepyhead

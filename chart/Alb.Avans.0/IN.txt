@@ -1,0 +1,10 @@
+#
+Name: Alb
+Path: Alb.Avans.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.7
+Composer: Avans
+Illustrator: ©2026 Rayark Inc. CYTUS II®
+Charter: Ary

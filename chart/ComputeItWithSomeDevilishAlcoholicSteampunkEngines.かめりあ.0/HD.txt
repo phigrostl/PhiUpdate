@@ -1,0 +1,10 @@
+#
+Name: Compute It With Some Devilish Alcoholic Steampunk Engines
+Path: ComputeItWithSomeDevilishAlcoholicSteampunkEngines.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.6
+Composer: かめりあ
+Illustrator: 山崎团
+Charter: Clutter

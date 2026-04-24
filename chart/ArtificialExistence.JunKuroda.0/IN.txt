@@ -1,0 +1,10 @@
+#
+Name: Artificial Existence
+Path: ArtificialExistence.JunKuroda.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.7
+Composer: Jun Kuroda
+Illustrator: 2AI4wU4
+Charter: Salt & _鉄 inspired by 存在証明 [X]

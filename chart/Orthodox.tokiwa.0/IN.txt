@@ -1,0 +1,10 @@
+#
+Name: Orthodox
+Path: Orthodox.tokiwa.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.13.7
+Composer: tokiwa
+Illustrator: cycats
+Charter: Uvernight fixed by StR-1

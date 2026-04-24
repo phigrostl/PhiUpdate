@@ -1,0 +1,10 @@
+#
+Name: Cipher : /2&//<|0
+Path: Cipher20.TetrajectoryfeatCtymax.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.4
+Composer: Tetrajectory feat. Ctymax
+Illustrator: IvyTowers
+Charter: Barbarianerman feat. Gausbon

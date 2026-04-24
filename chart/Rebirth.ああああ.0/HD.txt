@@ -1,0 +1,10 @@
+#
+Name: Re：birth
+Path: Rebirth.ああああ.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.0
+Composer: ああああ
+Illustrator: QueseraGames Co., Ltd.
+Charter: 啊哒咔哟 & 小咩兔 & COC

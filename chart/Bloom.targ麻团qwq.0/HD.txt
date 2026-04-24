@@ -1,0 +1,10 @@
+#
+Name: Bloom
+Path: Bloom.targ麻团qwq.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.2
+Composer: targ & 麻团qwq
+Illustrator: 注射
+Charter: Salt & Barbarianerman

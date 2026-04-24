@@ -1,0 +1,10 @@
+#
+Name: Rainy Heart
+Path: RainyHeart.BelieverInYou阿卡姆巫师.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.4
+Composer: BelieverInYou(阿卡姆巫师)
+Illustrator: Sodhelium
+Charter: Barbarianerman

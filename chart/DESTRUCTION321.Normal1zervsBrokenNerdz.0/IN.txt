@@ -1,0 +1,10 @@
+#
+Name: DESTRUCTION 3,2,1
+Path: DESTRUCTION321.Normal1zervsBrokenNerdz.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.3
+Composer: Normal1zer vs. Broken Nerdz
+Illustrator: rN
+Charter: {Destruction}

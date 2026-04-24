@@ -1,0 +1,10 @@
+#
+Name: K.Moe (VIP)
+Path: KMoeVIP.ZxNX.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: ZxNX
+Illustrator: BTKCyber (青鸟 modified)
+Charter: R:kko (IMD)

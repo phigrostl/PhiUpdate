@@ -1,0 +1,10 @@
+#
+Name: Introduction
+Path: Introduction
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.1.0
+Composer: 
+Illustrator: L-sp4
+Charter: Catcats

@@ -1,0 +1,10 @@
+#
+Name: Break Over
+Path: BreakOver.Kforest.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.5
+Composer: K-forest
+Illustrator: 圆规compasses
+Charter: Barbarianerman

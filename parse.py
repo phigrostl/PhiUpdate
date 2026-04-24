@@ -88,19 +88,17 @@ def save(key, entry, futures):
         SP = True
         with open("info/songs.txt", "a", encoding="utf8") as f:
             f.write(folder_name + "\n")
-        songs.append(folder_name)
         
         with open("info/chapter.txt", "a", encoding="utf8") as f:
             f.write("\n" + folder_name + "\n")
-        songs.append(folder_name)
         
         with open("info/difficulty.tsv", "a", encoding="utf8") as f:
             f.write(folder_name + "\t?\n")
-        songs.append(folder_name)
         
         with open("info/info.tsv", "a", encoding="utf8") as f:
             f.write(folder_name + "\t\t\t\t\t\t\n")
-        songs.append(folder_name)
+            
+        songs.append(folder_name[:-2])
 
     base_folder = "chart"
     out_folder = os.path.join(base_folder, folder_name)

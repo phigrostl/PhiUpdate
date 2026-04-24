@@ -10,6 +10,6 @@ else:
     if len(sys.argv) > 2:
         filter = sys.argv[2:]
 
-print(os.system(f"py cg.py {path}"))
 print(os.system(f"py info.py {path}"))
 print(os.system(f"py parse.py {path} {' '.join(filter)}"))
+print(os.system(f"py phira.py {' '.join(filter)}"))

@@ -1,10 +1,7 @@
 APK
-TypeTreeGeneratorCLI
-typetree.json
 .vscode
 *.dll
 *.apk
-*.wav
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

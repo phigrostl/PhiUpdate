@@ -11,8 +11,6 @@
  - 下载并解压本仓库
 
  - [Python 3.8+](https://www.python.org/downloads/)
- - [TypeTreeGeneratorCLI](https://github.com/K0lb3/TypeTreeGenerator/releases/latest)
- - [Il2CppDumper](https://github.com/Perfare/Il2CppDumper/releases/latest)
  - [libvorbis.dll](https://xiph.org/downloads/)
 
 ```shell
@@ -34,11 +32,11 @@ music = false               # 提取音乐
 ## 脚本说明
 
 ### main.py
-`main.py` 整合了 `cg.py`, `info.py`, `parse.py`, `phira.py` 四个脚本
+`main.py` 整合了 `info.py`, `parse.py`, `phira.py` 四个脚本
 其中
-- `cg.py` : 解包安装包
 - `info.py` : 获取曲目信息
 - `parse.py` : 解析曲目
+- `phira.py` : 将解析后的曲目转换为 `Phira` 可导入格式
 
 ``` bash
 py main.py <Path> [Filter...]
@@ -48,15 +46,6 @@ py main.py <Path> [Filter...]
 - `Filter` : 指定需要提取的曲目关键词
 
 > 可根据需要以运行以上任意脚本
-
-### phira.py
-`phira.py` 将解析后的曲目转换为 `Phira` 可导入格式
-
-``` bash
-py phira.py [Filter...]
-```
-
-- `Filter` : 指定需要提取的曲目关键词
 
 ### 目录结构
 ``` dir

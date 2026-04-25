@@ -1,0 +1,10 @@
+#
+Name: 玩具狂奏曲 -終焉-
+Path: 玩具狂奏曲終焉.きくお.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.8.4
+Composer: きくお
+Illustrator: SEGA (V17AMax modified)
+Charter: //TAP to StaRt//

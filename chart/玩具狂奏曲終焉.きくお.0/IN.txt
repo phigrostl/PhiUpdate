@@ -1,0 +1,10 @@
+#
+Name: 玩具狂奏曲 -終焉-
+Path: 玩具狂奏曲終焉.きくお.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: きくお
+Illustrator: SEGA (V17AMax modified)
+Charter: Self -the pAtchwork-

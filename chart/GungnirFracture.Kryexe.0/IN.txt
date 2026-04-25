@@ -1,0 +1,10 @@
+#
+Name: Gungnir Fracture
+Path: GungnirFracture.Kryexe.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.1.0
+Composer: Kry.exe
+Illustrator: PEZZ
+Charter: 1

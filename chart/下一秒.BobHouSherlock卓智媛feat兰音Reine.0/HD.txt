@@ -1,0 +1,10 @@
+#
+Name: 下一秒
+Path: 下一秒.BobHouSherlock卓智媛feat兰音Reine.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.5
+Composer: Bob Hou & Sherlock卓智媛 feat. 兰音Reine
+Illustrator: 虚拟九点
+Charter: Magazet

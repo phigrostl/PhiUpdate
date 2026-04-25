@@ -1,0 +1,10 @@
+#
+Name: 亂★舞
+Path: 亂舞.NekockLK.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.1.0
+Composer: Nekock·LK
+Illustrator: 鲸弑
+Charter: 1

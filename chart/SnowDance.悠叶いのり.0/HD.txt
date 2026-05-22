@@ -1,0 +1,10 @@
+#
+Name: Snow Dance
+Path: SnowDance.悠叶いのり.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.3
+Composer: 悠叶いのり
+Illustrator: 群青kurara
+Charter: 爬爬

@@ -1,0 +1,10 @@
+#
+Name: 70 Minutes Fighters
+Path: 70MinutesFighters.かたぎり.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.7.5
+Composer: かたぎり
+Illustrator: 青鸟
+Charter: ADKY

@@ -1,0 +1,10 @@
+#
+Name: Cleyera
+Path: Cleyera.Riya.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.0
+Composer: Riya
+Illustrator: 神居冰绘
+Charter: Su2023fuR

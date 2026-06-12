@@ -1,0 +1,10 @@
+#
+Name: Cleyera
+Path: Cleyera.Riya.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.5.0
+Composer: Riya
+Illustrator: 神居冰绘
+Charter: --The Last of Barbarianerman--

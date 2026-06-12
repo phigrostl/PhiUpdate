@@ -1,0 +1,10 @@
+#
+Name: 70 Minutes Fighters
+Path: 70MinutesFighters.かたぎり.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.5
+Composer: かたぎり
+Illustrator: 青鸟
+Charter: XMT小咩兔 >w<

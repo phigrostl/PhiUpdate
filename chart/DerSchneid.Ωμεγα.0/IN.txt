@@ -1,0 +1,10 @@
+#
+Name: Der Schneid
+Path: DerSchneid.Ωμεγα.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.1
+Composer: Ωμεγα
+Illustrator: 群青kurara feat. 祈莲 & 夏宇Detristy
+Charter: Der Mut und der Richter

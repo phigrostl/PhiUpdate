@@ -1,0 +1,10 @@
+#
+Name: Der Schneid
+Path: DerSchneid.Ωμεγα.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.5
+Composer: Ωμεγα
+Illustrator: 群青kurara feat. 祈莲 & 夏宇Detristy
+Charter: Gegenmacht der Lords

@@ -1,0 +1,10 @@
+#
+Name: 星拂云锦 feat. koi
+Path: 星拂云锦featkoi.S9ryne.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.0
+Composer: S9ryne
+Illustrator: 青鸟
+Charter: 帷畔托星

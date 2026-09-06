@@ -4,7 +4,7 @@ Path: ArtificialExistence.JunKuroda.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.9.3
+Level: HD Lv.9.4
 Composer: Jun Kuroda
 Illustrator: 2AI4wU4
 Charter: Salt

@@ -4,7 +4,7 @@ Path: 萤火虫の怨.闫东炜.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.0
+Level: IN Lv.13.1
 Composer: 闫东炜
 Illustrator: L-sp4
 Charter: 阿爽 & 百九十八

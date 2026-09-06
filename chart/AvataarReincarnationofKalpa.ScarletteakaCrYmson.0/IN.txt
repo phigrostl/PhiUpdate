@@ -4,7 +4,7 @@ Path: AvataarReincarnationofKalpa.ScarletteakaCrYmson.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.4
+Level: IN Lv.13.2
 Composer: Scarlette a.k.a CrYmson
 Illustrator: QueseraGames Co., Ltd.
 Charter: Salt

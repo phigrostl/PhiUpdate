@@ -1,0 +1,10 @@
+#
+Name: Devastating History
+Path: DevastatingHistory.NAMV.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.6.0
+Composer: NAMV
+Illustrator: わせ (Ctymax modified)
+Charter: Algax

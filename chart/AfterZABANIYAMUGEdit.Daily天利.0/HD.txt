@@ -4,7 +4,7 @@ Path: AfterZABANIYAMUGEdit.Daily天利.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.10.2
+Level: HD Lv.10.6
 Composer: Daily天利
 Illustrator: Nakaiankow feat. Daily天利
 Charter: After CHARTER

@@ -4,7 +4,7 @@ Path: Luminescent.Daison.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.9.7
+Level: HD Lv.10.5
 Composer: Daison
 Illustrator: 鲸弑
 Charter: Uvernight

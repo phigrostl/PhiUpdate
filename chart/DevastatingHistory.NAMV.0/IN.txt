@@ -1,0 +1,10 @@
+#
+Name: Devastating History
+Path: DevastatingHistory.NAMV.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.5
+Composer: NAMV
+Illustrator: わせ (Ctymax modified)
+Charter: T∆TIØN

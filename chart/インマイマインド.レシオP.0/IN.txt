@@ -4,7 +4,7 @@ Path: インマイマインド.レシオP.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.12.2
+Level: IN Lv.12.5
 Composer: レシオP
 Illustrator: すずか爆弾
 Charter: ネルサン (I make charts slowly)

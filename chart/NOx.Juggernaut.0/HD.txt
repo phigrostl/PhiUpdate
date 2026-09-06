@@ -4,7 +4,7 @@ Path: NOx.Juggernaut.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.10.3
+Level: HD Lv.10.1
 Composer: Juggernaut.
 Illustrator: cala for Immaculée Sekai
 Charter: IUIsauce

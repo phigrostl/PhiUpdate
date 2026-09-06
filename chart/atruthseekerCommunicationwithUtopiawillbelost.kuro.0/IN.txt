@@ -4,7 +4,7 @@ Path: atruthseekerCommunicationwithUtopiawillbelost.kuro.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.15.8
+Level: IN Lv.15.7
 Composer: kuro
 Illustrator: rokopon
 Charter: -Seek A Lnside Truth-

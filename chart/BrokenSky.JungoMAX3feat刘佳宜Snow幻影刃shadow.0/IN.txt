@@ -4,7 +4,7 @@ Path: BrokenSky.JungoMAX3feat刘佳宜Snow幻影刃shadow.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.2
+Level: IN Lv.13.3
 Composer: Jungo & MAX 3 feat. 刘佳宜Snow & 幻影刃shadow
 Illustrator: 午苔veeee~
 Charter: Su1fuR

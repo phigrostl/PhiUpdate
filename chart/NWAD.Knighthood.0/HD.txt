@@ -1,0 +1,10 @@
+#
+Name: [NWAD]
+Path: NWAD.Knighthood.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.9.2
+Composer: Knighthood
+Illustrator: 2Al4wU4
+Charter: [DETCETED]

@@ -4,7 +4,7 @@ Path: 下一秒.BobHouSherlock卓智媛feat兰音Reine.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.2
+Level: IN Lv.13.6
 Composer: Bob Hou & Sherlock卓智媛 feat. 兰音Reine
 Illustrator: 虚拟九点
 Charter: Salt

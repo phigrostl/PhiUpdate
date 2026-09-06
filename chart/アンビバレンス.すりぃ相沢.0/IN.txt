@@ -4,7 +4,7 @@ Path: アンビバレンス.すりぃ相沢.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.14.1
+Level: IN Lv.14.2
 Composer: すりぃ×相沢
 Illustrator: SEGA (祈莲 modified)
 Charter: 弧光 With Opposition

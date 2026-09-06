@@ -242,6 +242,7 @@ Incyde
 Xep+ion
 Archidoxen
 百鬼֎夜行
+Devastating History
 
 *maimai
 アンビバレンス
@@ -289,6 +290,7 @@ a truth seeker -Communication with Utopia will be lost-
 Xenolith
 Artificial Existence
 Indelible Scar
+[NWAD]
 
 *CHUNITHM
 月詠に鳴る

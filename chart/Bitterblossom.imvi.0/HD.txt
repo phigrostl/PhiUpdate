@@ -4,7 +4,7 @@ Path: Bitterblossom.imvi.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.9.5
+Level: HD Lv.9.9
 Composer: imvi
 Illustrator: 鲸弑
 Charter: Barbarianerman

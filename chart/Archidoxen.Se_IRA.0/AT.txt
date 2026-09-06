@@ -1,0 +1,10 @@
+#
+Name: Archidoxen
+Path: Archidoxen.Se_IRA.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.9
+Composer: Se_IRA
+Illustrator: n/a (Ctymax modified)
+Charter: artifact::<0x04, 0x53, 0x12>

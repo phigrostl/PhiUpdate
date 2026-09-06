@@ -4,7 +4,7 @@ Path: 心の記憶.A39沙包P.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.3
+Level: IN Lv.13.4
 Composer: A-39/沙包P
 Illustrator: 爱39的Konya
 Charter: N-23

@@ -4,7 +4,7 @@ Path: dBdoll.YUESTEVENuen.0
 Song: music.wav
 Picture: illustration.png
 Chart: AT.json
-Level: AT Lv.13.6
+Level: AT Lv.13.4
 Composer: YUE.STEVEN/uen
 Illustrator: 何呵
 Charter: NerSAN & 百九十八

@@ -4,7 +4,7 @@ Path: 万吨匿名信.闫东炜.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.13.3
+Level: IN Lv.13.0
 Composer: 闫东炜
 Illustrator: IvyTowers
 Charter: 猫の信 & 百九十八

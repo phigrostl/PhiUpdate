@@ -4,7 +4,7 @@ Path: Spasmodic.姜米條颶風元力上人.0
 Song: music.wav
 Picture: illustration.png
 Chart: HD.json
-Level: HD Lv.13.3
+Level: HD Lv.12.9
 Composer: 姜米條☆颶風 ~ ♫元力上人♫
 Illustrator: 昔璃☆暴雨 ~ ♫危難聖帝♫
 Charter: 無極☆雷鳴 ~ ♫死の序曲♫

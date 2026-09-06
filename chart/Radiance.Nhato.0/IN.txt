@@ -4,7 +4,7 @@ Path: Radiance.Nhato.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.14.0
+Level: IN Lv.14.1
 Composer: Nhato
 Illustrator: SEGA (V17AMax modified)
 Charter: XMT小咩兔

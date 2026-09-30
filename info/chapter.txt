@@ -1,5 +1,6 @@
 
 *Single
+Cryogenic
 星拂云锦 feat. koi
 Der Schneid
 夢の降る日に
@@ -199,6 +200,13 @@ Luminescence
 Retribution
 DESTRUCTION 3,2,1
 Distorted Fate
+
+*Chapter 9
+About The Universe
+Implexrough
+Evanescent
+Entrance to the Chaos
+Exoplanetary Mirage
 
 *Side story 1
 Ποσειδών

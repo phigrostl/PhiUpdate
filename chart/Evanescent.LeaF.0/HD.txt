@@ -1,0 +1,10 @@
+#
+Name: Evanescent
+Path: Evanescent.LeaF.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.12.6
+Composer: LeaF
+Illustrator: 海产
+Charter: Salt -a fading boundary-

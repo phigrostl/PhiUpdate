@@ -1,0 +1,10 @@
+#
+Name: Exoplanetary Mirage
+Path: ExoplanetaryMirage.かめりあ.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.9
+Composer: かめりあ
+Illustrator: 神居冰绘 feat. 祈莲
+Charter: Orbital Velocity:  ■■■ km/s

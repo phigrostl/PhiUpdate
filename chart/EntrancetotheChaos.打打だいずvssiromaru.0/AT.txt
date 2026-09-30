@@ -1,0 +1,10 @@
+#
+Name: Entrance to the Chaos
+Path: EntrancetotheChaos.打打だいずvssiromaru.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.17.6
+Composer: 打打だいず vs. siromaru
+Illustrator: Rallxkurara
+Charter: Embracing the Madness

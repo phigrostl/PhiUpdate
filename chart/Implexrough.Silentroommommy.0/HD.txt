@@ -1,0 +1,10 @@
+#
+Name: Implexrough
+Path: Implexrough.Silentroommommy.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.10.2
+Composer: Silentroom × mommy
+Illustrator: Nate
+Charter: Fractwist  - Helabot

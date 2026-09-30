@@ -1,0 +1,10 @@
+#
+Name: Implexrough
+Path: Implexrough.Silentroommommy.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.3
+Composer: Silentroom × mommy
+Illustrator: Nate
+Charter: Turbulax - Simon_Axis & Stray_Cat

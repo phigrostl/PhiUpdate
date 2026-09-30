@@ -1,0 +1,10 @@
+#
+Name: About The Universe
+Path: AboutTheUniverse.SOTUIMIssionary.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.14.4
+Composer: SOTUI & MIssionary
+Illustrator: MC大神knife美工刀
+Charter: 波硫二象性

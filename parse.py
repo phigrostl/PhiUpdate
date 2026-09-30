@@ -169,6 +169,9 @@ def run(path):
             del table[i]
         elif table[i][0][:14] == "Assets/Tracks/":
             table[i][0] = table[i][0][14:]
+    for i, (key, value) in enumerate(table):
+        if '_' in value:
+            table[i][1] = value.split('_', 1)[1]
 
     global avatar
     if config["avatar"]:

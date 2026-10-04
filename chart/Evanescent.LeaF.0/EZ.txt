@@ -6,5 +6,5 @@ Picture: illustration.png
 Chart: EZ.json
 Level: EZ Lv.6.5
 Composer: LeaF
-Illustrator: 海产
+Illustrator: 海产 feat. 佑木いずみ
 Charter: Salt -a remaining dream-

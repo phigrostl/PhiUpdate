@@ -6,5 +6,5 @@ Picture: illustration.png
 Chart: HD.json
 Level: HD Lv.12.6
 Composer: LeaF
-Illustrator: 海产
+Illustrator: 海产 feat. 佑木いずみ
 Charter: Salt -a fading boundary-

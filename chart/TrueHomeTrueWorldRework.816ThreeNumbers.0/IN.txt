@@ -1,0 +1,10 @@
+#
+Name: True Home, True World (Rework)
+Path: TrueHomeTrueWorldRework.816ThreeNumbers.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.8
+Composer: 816ThreeNumbers
+Illustrator: PEZZ
+Charter: go back to the -

@@ -6,5 +6,5 @@ Picture: illustration.png
 Chart: IN.json
 Level: IN Lv.15.7
 Composer: LeaF
-Illustrator: 海产
+Illustrator: 海产 feat. 佑木いずみ
 Charter: Salt feat. Ner -an evanescent reality-

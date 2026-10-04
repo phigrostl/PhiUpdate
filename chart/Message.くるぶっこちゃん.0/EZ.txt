@@ -1,0 +1,10 @@
+#
+Name: Message
+Path: Message.くるぶっこちゃん.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.3.0
+Composer: くるぶっこちゃん
+Illustrator: 神居冰绘 feat. 祈莲
+Charter: ■■■p■l■a

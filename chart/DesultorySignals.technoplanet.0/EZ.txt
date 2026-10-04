@@ -1,0 +1,10 @@
+#
+Name: Desultory Signals
+Path: DesultorySignals.technoplanet.0
+Song: music.wav
+Picture: illustration.png
+Chart: EZ.json
+Level: EZ Lv.10.0
+Composer: technoplanet
+Illustrator: 月光大刺剑
+Charter: Hesitating Trepidation "踌躇的惶恐"

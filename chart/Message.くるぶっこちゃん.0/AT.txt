@@ -1,0 +1,10 @@
+#
+Name: Message
+Path: Message.くるぶっこちゃん.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.5
+Composer: くるぶっこちゃん
+Illustrator: 神居冰绘 feat. 祈莲
+Charter: Geopelia's love 2u

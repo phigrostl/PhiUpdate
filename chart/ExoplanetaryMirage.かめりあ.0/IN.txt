@@ -4,7 +4,7 @@ Path: ExoplanetaryMirage.かめりあ.0
 Song: music.wav
 Picture: illustration.png
 Chart: IN.json
-Level: IN Lv.16.9
-Composer: かめりあ
+Level: IN Lv.16.8
+Composer: Camellia
 Illustrator: 神居冰绘 feat. 祈莲
 Charter: Orbital Velocity: 16.700 km/s

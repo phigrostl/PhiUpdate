@@ -5,6 +5,6 @@ Song: music.wav
 Picture: illustration.png
 Chart: AT.json
 Level: AT Lv.17.9
-Composer: かめりあ
+Composer: Camellia
 Illustrator: 神居冰绘 feat. 祈莲
 Charter: Orbital Velocity:  ■■■ km/s

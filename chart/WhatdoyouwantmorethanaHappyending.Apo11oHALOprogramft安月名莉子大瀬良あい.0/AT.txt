@@ -1,0 +1,10 @@
+#
+Name: What do you want more than a Happy ending?
+Path: WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0
+Song: music.wav
+Picture: illustration_AT.png
+Chart: AT.json
+Level: AT Lv.17.1
+Composer: Apo11o"HALO"program ft. 安月名 莉子×大瀬良あい
+Illustrator: Amor fati
+Charter: 欢迎回到 Phigros！

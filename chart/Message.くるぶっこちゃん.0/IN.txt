@@ -1,0 +1,10 @@
+#
+Name: Message
+Path: Message.くるぶっこちゃん.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.6
+Composer: くるぶっこちゃん
+Illustrator: 神居冰绘 feat. 祈莲
+Charter: Geo■elia's lov

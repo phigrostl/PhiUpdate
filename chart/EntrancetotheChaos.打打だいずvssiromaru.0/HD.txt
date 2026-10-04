@@ -6,5 +6,5 @@ Picture: illustration.png
 Chart: HD.json
 Level: HD Lv.13.7
 Composer: 打打だいず vs. siromaru
-Illustrator: Rallxkurara
+Illustrator: 群青kurara
 Charter: Crossing the Threshold

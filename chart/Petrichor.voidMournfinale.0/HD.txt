@@ -1,0 +1,10 @@
+#
+Name: Petrichor
+Path: Petrichor.voidMournfinale.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.13.8
+Composer: void (Mournfinale)
+Illustrator: 青鸟 feat. 祈莲
+Charter: Rain | Rewrites

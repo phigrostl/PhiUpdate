@@ -6,5 +6,5 @@ Picture: illustration.png
 Chart: EZ.json
 Level: EZ Lv.8.8
 Composer: 打打だいず vs. siromaru
-Illustrator: Rallxkurara
+Illustrator: 群青kurara
 Charter: Approaching the Gates

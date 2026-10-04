@@ -1,0 +1,10 @@
+#
+Name: Leave All Behind
+Path: LeaveAllBehind.rider.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.15.0
+Composer: rider
+Illustrator: 笔记RE
+Charter: WinterPT & Rikko

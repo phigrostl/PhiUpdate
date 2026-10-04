@@ -1,0 +1,10 @@
+#
+Name: Ametrine
+Path: Ametrine.GRYSCLMIssionary.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.16.2
+Composer: GRYSCL & MIssionary
+Illustrator: 子狼
+Charter: Ametrine

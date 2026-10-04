@@ -1,0 +1,10 @@
+#
+Name: Petrichor
+Path: Petrichor.voidMournfinale.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.16.5
+Composer: void (Mournfinale)
+Illustrator: 青鸟 feat. 祈莲
+Charter: Silence | Us

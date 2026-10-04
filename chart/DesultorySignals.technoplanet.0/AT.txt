@@ -1,0 +1,10 @@
+#
+Name: Desultory Signals
+Path: DesultorySignals.technoplanet.0
+Song: music.wav
+Picture: illustration.png
+Chart: AT.json
+Level: AT Lv.18.0
+Composer: technoplanet
+Illustrator: 月光大刺剑
+Charter: Ceaseless Signal "不息的信号"

@@ -1,0 +1,10 @@
+#
+Name: True Home, True World (Rework)
+Path: TrueHomeTrueWorldRework.816ThreeNumbers.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.11.9
+Composer: 816ThreeNumbers
+Illustrator: PEZZ
+Charter: turn back to the antemundane realm,

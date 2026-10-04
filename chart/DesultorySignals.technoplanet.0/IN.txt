@@ -1,0 +1,10 @@
+#
+Name: Desultory Signals
+Path: DesultorySignals.technoplanet.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.17.0
+Composer: technoplanet
+Illustrator: 月光大刺剑
+Charter: Retaliating Resolve "反击的决意"

@@ -74,31 +74,35 @@ def save_chart(path, obj):
 
 classes = ClassIDType.TextAsset, ClassIDType.Sprite, ClassIDType.AudioClip
 songs = []
+songs2 = []
 
 def save(key, entry, futures):
     global write_num, pool, config
     obj = entry.get_filtered_objects(classes)
     obj = next(obj).read()
     folder_name = key.rsplit("/", 1)[0]
+    
+    chapter9_ending_chart_id = "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい"
 
     global songs
+    global songs2
     SP = False
     
     if not folder_name[:-2] in songs and not key[:7] == "avatar.":
         SP = True
-        with open("info/songs.txt", "a", encoding="utf8") as f:
-            f.write(folder_name + "\n")
-        
-        with open("info/chapter.txt", "a", encoding="utf8") as f:
-            f.write("\n" + folder_name + "\n")
-        
-        with open("info/difficulty.tsv", "a", encoding="utf8") as f:
-            f.write(folder_name + "\t?\n")
-        
-        with open("info/info.tsv", "a", encoding="utf8") as f:
-            f.write(folder_name + "\t\t\t\t\t\t\n")
+        if not folder_name[:-2] in songs2:
+            with open("info/songs.txt", "a", encoding="utf8") as f:
+                f.write(folder_name + "\n")
             
-        songs.append(folder_name[:-2])
+            with open("info/chapter.txt", "a", encoding="utf8") as f:
+                f.write("\n" + folder_name + "\n")
+            
+            with open("info/difficulty.tsv", "a", encoding="utf8") as f:
+                f.write(folder_name + "\t?\n")
+            
+            with open("info/info.tsv", "a", encoding="utf8") as f:
+                f.write(folder_name + "\t\t\t\t\t\t\n")
+            songs2.append(folder_name[:-2])
 
     base_folder = "chart"
     out_folder = os.path.join(base_folder, folder_name)
@@ -126,6 +130,18 @@ def save(key, entry, futures):
     elif config["music"] and key[-10:] == "/music.wav" and in_filter(key):
         futures.append(pool.submit(save_music, os.path.join(out_folder, "music.wav"), obj))
         write_num += 1
+    elif key.startswith("%s.0/Illustration" % chapter9_ending_chart_id):
+        level_id = key[-7:-4]
+        if level_id[0] == "_":
+            if config["illustrationBlur"] and key[-26:-7] == ".0/IllustrationBlur":
+                futures.append(pool.submit(save_image, os.path.join(out_folder, f"illustrationBlur{level_id}.png"), obj.image))
+                write_num += 1
+            elif config["illustrationLowRes"] and key[-28:-7] == ".0/IllustrationLowRes":
+                futures.append(pool.submit(save_image, os.path.join(out_folder, f"illustrationLowres{level_id}.png"), obj.image))
+                write_num += 1
+            elif config["illustration"] and key[-22:-7] == ".0/Illustration":
+                futures.append(pool.submit(save_image, os.path.join(out_folder, f"illustration{level_id}.png"), obj.image))
+                write_num += 1
 
 def run(path):
     global progress_bar
@@ -243,6 +259,7 @@ if __name__ == "__main__":
         line = f.readline()[:-3]
         while line:
             songs.append(line)
+            songs2.append(line)
             line = f.readline()[:-3]
     
     run(path)

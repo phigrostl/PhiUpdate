@@ -3,6 +3,7 @@ import os
 import sys
 from UnityPy import Environment
 import zipfile
+from io import BytesIO
 import apkutils
 import xml.etree.ElementTree as ET
 
@@ -31,19 +32,30 @@ def run(path):
         typetree = json.load(f)
     env = Environment()
     with zipfile.ZipFile(path) as apk:
-        with apk.open("assets/bin/Data/globalgamemanagers.assets") as f:
-            env.load_file(f.read(), name="assets/bin/Data/globalgamemanagers.assets")
-        with apk.open("assets/bin/Data/level0") as f:
-            env.load_file(f.read())
+        if "assets/bin/Data/data.unity3d" in apk.NameToInfo:
+            with apk.open("assets/bin/Data/data.unity3d") as f:
+                env.load_file(f.read(), name="assets/bin/Data/data.unity3d")
+        else:
+            with apk.open("assets/bin/Data/globalgamemanagers.assets") as f:
+                env.load_file(BytesIO(f.read()), name="assets/bin/Data/globalgamemanagers.assets")
+            with apk.open("assets/bin/Data/level0") as f:
+                env.load_file(BytesIO(f.read()))
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
             continue
         data = obj.read()
-        if data.m_Script.get_obj().read().name == "GameInformation":
+        try:
+            script = data.m_Script.get_obj()
+            if script is None:
+                continue
+            script_name = script.read().name
+        except Exception:
+            continue
+        if script_name == "GameInformation":
             GameInformation = obj.read_typetree(typetree["GameInformation"])
-        elif data.m_Script.get_obj().read().name == "GetCollectionControl":
+        elif script_name == "GetCollectionControl":
             Collections = obj.read_typetree(typetree["GetCollectionControl"], True)
-        elif data.m_Script.get_obj().read().name == "TipsProvider":
+        elif script_name == "TipsProvider":
             Tips = obj.read_typetree(typetree["TipsProvider"], True)
 
     difficulty = []

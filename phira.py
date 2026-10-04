@@ -82,19 +82,36 @@ for id, info in infos.items():
                     f"Chart: SP.json\n"
                     f"Level: SP Lv.?\n"
                 )
+                with open(os.path.join(out_dir, f"SP.txt"), "w", encoding="utf8") as f:
+                    f.write(info_txt_content)
             else:
-                info_txt_content = (
-                    f"#\n"
-                    f"Name: {info['Name']}\n"
-                    f"Path: {id}\n"
-                    f"Song: music.wav\n"
-                    f"Picture: illustration.png\n"
-                    f"Chart: {level}.json\n"
-                    f"Level: {level} Lv.{info['difficulty'][level_index]}\n"
-                    f"Composer: {info['Composer']}\n"
-                    f"Illustrator: {info['Illustrator']}\n"
-                    f"Charter: {info['Chater'][level_index]}\n"
-                )
+                if id == "WhatdoyouwantmorethanaHappyending.Apo11oHALOprogramft安月名莉子大瀬良あい.0":
+                    info_txt_content = (
+                        f"#\n"
+                        f"Name: {info['Name']}\n"
+                        f"Path: {id}\n"
+                        f"Song: music.wav\n"
+                        f"Picture: illustration_{level}.png\n"
+                        f"Chart: {level}.json\n"
+                        f"Level: {level} Lv.{info['difficulty'][level_index]}\n"
+                        f"Composer: {info['Composer']}\n"
+                        f"Illustrator: {info['Illustrator']}\n"
+                        f"Charter: {info['Chater'][level_index]}\n"
+                    )
+                else:
+                    info_txt_content = (
+                        f"#\n"
+                        f"Name: {info['Name']}\n"
+                        f"Path: {id}\n"
+                        f"Song: music.wav\n"
+                        f"Picture: illustration.png\n"
+                        f"Chart: {level}.json\n"
+                        f"Level: {level} Lv.{info['difficulty'][level_index]}\n"
+                        f"Composer: {info['Composer']}\n"
+                        f"Illustrator: {info['Illustrator']}\n"
+                        f"Charter: {info['Chater'][level_index]}\n"
+                    )
+                    
                 with open(os.path.join(out_dir, f"{level}.txt"), "w", encoding="utf8") as f:
                     f.write(info_txt_content)
                 

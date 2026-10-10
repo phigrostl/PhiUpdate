@@ -37,9 +37,9 @@ def run(path):
                 env.load_file(f.read(), name="assets/bin/Data/data.unity3d")
         else:
             with apk.open("assets/bin/Data/globalgamemanagers.assets") as f:
-                env.load_file(BytesIO(f.read()), name="assets/bin/Data/globalgamemanagers.assets")
+                env.load_file(f.read(), name="assets/bin/Data/globalgamemanagers.assets")
             with apk.open("assets/bin/Data/level0") as f:
-                env.load_file(BytesIO(f.read()))
+                env.load_file(f.read())
     for obj in env.objects:
         if obj.type.name != "MonoBehaviour":
             continue

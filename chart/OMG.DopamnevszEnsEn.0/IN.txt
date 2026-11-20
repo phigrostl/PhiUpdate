@@ -1,0 +1,10 @@
+#
+Name: OMG
+Path: OMG.DopamnevszEnsEn.0
+Song: music.wav
+Picture: illustration.png
+Chart: IN.json
+Level: IN Lv.15.2
+Composer: Dopam!ne vs zEnsEn
+Illustrator: 古テ壱
+Charter: MAS

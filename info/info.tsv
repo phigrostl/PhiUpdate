@@ -84,7 +84,7 @@ mechanted.rareguy.0	mechanted	rareguy	IvyTowers	Ctymax	Ctymax	Ctymax
 lifeflashesbeforeweebeyes.BilliumMoto.0	life flashes before weeb eyes	BilliumMoto	百九十八	百九十八	百九十八	百九十八
 BreakThroughTheBarrier.lixound.0	Break Through The Barrier	lixound	Xquid	Su1fuR	Su1fuR	百九十八	
 Chronostasis.黒皇帝.0	Chronostasis	黒皇帝	Sand	Uvernight	Uvernight	Gausbon fixed by XMT
-DeadSoul.SoundSouler.0	Dead Soul	Sound Souler	Photonskyto	Phigros Charting Team	Phigros Charting Team	Phigros Charting Team
+DeadSoul.SoundSouler.0	Dead Soul	Sound Souler	Photonskyto	Phigros Chart Team	Phigros Chart Team	Phigros Chart Team
 InfinityHeaven.HyuN.0	Infinity Heaven	HyuN	DoublePian	晨 vs. 阿爽	晨 vs. 阿爽	晨 vs. 阿爽
 Disorder.HyuNfeatYURI.0	Disorder	HyuN feat. YURI	Nabom	Gausbon	Gausbon	Gausbon
 CROSSSOUL.HyuNfeatSyepias.0	CROSS†SOUL	HyuN feat. Syepias	knife美工刀	無†極	無†極 fixed by Rikko	無†極
@@ -130,7 +130,7 @@ Nhelv.Silentroom.0	Nhelv	Silentroom	駿	野从	StupiGGy	森德雷斯 vs. 百九�
 Arkhei.SeraAmagi.0	-Arkhei-	Sera Amagi	Hachimitsu☆Boy	-JKy-	-JKy-	-JKy-
 Kerberos.Zris.0	Kerberos	Zris	Eridani	Alloces	NerSAN	Snorkel vs. NerSAN
 parsey.siqlo.0	ρars/ey	siqlo	出前 x nekomiya	Rikko	Rikko & TangScend	TangScend
-Concvssion.Halv.0	Concvssion	Halv	汉堡	J.R	晨	Phigros Charting Team
+Concvssion.Halv.0	Concvssion	Halv	汉堡	J.R	晨	Phigros Chart Team
 ジングルベルJingleBell.A39沙包P.0	ジングルベル(Jingle Bell)	A-39/沙包P	爱39的Konya	merry CNrisTimas	merry XM AS	NerSANTA vs. BarbarianerSLEDGE
 TimetoNightSkyfeatLeeYuJin.HyuNKLYDIX.0	Time to Night Sky (feat. Lee Yu Jin)	HyuN & KLYDIX	ZG	Rikko	Barbarianerman	Likey & 198ar
 HAZARD.Limpid.0	HAZARD	Limpid	ZG	NerSAN	NerSAN	阿爽
@@ -198,7 +198,7 @@ SilenceisGoldenSpeechisGolden.NIWASHI.0	Silence is Golden, Speech is Golden	NIWA
 FracturedAngel.DJRaisei.0	Fractured Angel	DJ Raisei	OsuMe65	Su1fuR	Su1fuR	逆天使の悪魔 【Likey】
 JourneywithYou.Iris.0	Journey with You	Iris	BTKCyber (青鸟 modified)	jouR.ney with hold	jouR.ney to the end【COVERED】	Su1fuR -All about YOU & ME-
 SecretIllumination.Yooh.0	Secret Illumination	Yooh	Juice Black (青鸟 modified)	Likey 	迟戈 vs. Likey	NerSAN
-InvertedWorld.ARForest.0	Inverted World	ARForest	Mechari (青鸟 modified)	Clutter	ɹǝʇʇnlƆ	ƃuɐnɥs∀ .sʌ uoqsnɐ⅁
+InvertedWorld.ARForest.0	Inverted World	ARForest	Mechari (青鸟 modified)	Clutter	ɹǝʇʇnlƆ	ƃuɐnɥs∀ .sʌ uoqsnɐ⅁	ʇǝzɐɓɐW
 月詠に鳴る.Feryquitousfeat藍月なくる.0	月詠に鳴る	Feryquitous feat.藍月なくる	SEGA (V17AMax modified)	IUIsauce	Salt	Myna feat.Sleepyhead	StupiGGy
 TECHNOPOLIS2085.PRASTIKDANCEFLOOR.0	TECHNOPOLIS 2085	PRASTIK DANCEFLOOR	SEGA (V17AMax modified)	dancing"L"ine 2085	迟戈 vs. Likey	CTYMAX ????	TECHNOXMT vs. LATENCYPOLIS
 祈-我ら神祖と共に歩む者なり-.光吉猛修VS穴山大輔VSKaiVS水野健治VS大国奏音.0	祈 -我ら神祖と共に歩む者なり-	光吉猛修 VS 穴山大輔 VS Kai VS 水野健治 VS 大国奏音	SEGA (V17AMax modified)	Su1fuRikko "SouRce of the metaveRse"	Su1fuRikko × rN "judgemeNt fRom the cataStRophy"	兔咩小 VS 咩小兔 VS 小兔咩 VS 咩兔小 VS 兔小咩	フィグロス譜面チーム "Rikko feat. Ner" -Pray for "PHI"-
@@ -303,6 +303,8 @@ DerSchneid.Ωμεγα.0	Der Schneid	Ωμεγα	群青kurara feat. 祈莲 & 夏�
 NWAD.Knighthood.0	[NWAD]	Knighthood	2Al4wU4	[RETTULC]	[DETCETED]	[RUFLUS]
 DevastatingHistory.NAMV.0	Devastating History	NAMV	わせ (Ctymax modified)	Algax	Algax	T∆TIØN
 Cryogenic.CamelliaftPetraGurin.0	Cryogenic	Camellia ft. Petra Gurin	アオノアオ + Vormis. (Design: V17AMax)	「EZ」 Falsus	「HD」 Falsus	「IN」 Falsus
+OMG.DopamnevszEnsEn.0	OMG	Dopam!ne vs zEnsEn	古テ壱	Akko	Akko	MAS
+STARGAZERS.proxime.0	STARGAZERS	proxime()	57_dayo [edited by Stelli]	Phigros Chart Team	Phigros Chart Team	Phigros Chart Team	Phigros Chart Team
 Poseidon.1112vsStar.0	Ποσειδών	1112 vs. Star＊	老张	Jαckψ a.k.a JKy	Jαckψ	Jαckψ feat. Βαρβαροςαντρας	上班摸大鱼 a.k.a. 海洋咩兔
 WATER.A39沙包P.0	WATER	A-39/沙包P	knife美工刀	急流に巻き込まれ	対流に巻き込まれ	乱流に巻き込まれ
 MiracleForestVIPMix.Rinthlive.0	Miracle Forest (VIP Mix)	Rinth_live	L-sp4	奇跡の希	奇跡の希	奇跡の希 feat. 奇跡の従

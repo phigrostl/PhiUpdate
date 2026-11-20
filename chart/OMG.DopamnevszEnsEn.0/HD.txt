@@ -1,0 +1,10 @@
+#
+Name: OMG
+Path: OMG.DopamnevszEnsEn.0
+Song: music.wav
+Picture: illustration.png
+Chart: HD.json
+Level: HD Lv.8.6
+Composer: Dopam!ne vs zEnsEn
+Illustrator: 古テ壱
+Charter: Akko
